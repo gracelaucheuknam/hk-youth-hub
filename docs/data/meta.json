@@ -1,0 +1,20 @@
+{
+ "generated_at": "2026-07-11T18:56:06Z",
+ "total": 144,
+ "upcoming": 74,
+ "sources": {
+  "youth_gov": "0（保留舊資料，請檢查 selector）",
+  "artmate": 177,
+  "eventbrite": "0（保留舊資料，請檢查 selector）",
+  "erb": 20,
+  "estart": "0（保留舊資料，請檢查 selector）",
+  "manual": 4
+ },
+ "source_labels": [
+  "art-mate 藝文平台",
+  "僱員再培訓局 ERB",
+  "勞工處 展翅計劃",
+  "勞工處 青年就業起點",
+  "政府青少年網站"
+ ]
+}
