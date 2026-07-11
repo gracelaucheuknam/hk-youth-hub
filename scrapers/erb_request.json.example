@@ -1,0 +1,29 @@
+{
+  "_說明_1": "ERB 個 GraphQL gateway。URL 同 headers 已經填好，剩返 payload 要你由 DevTools 抄返。",
+  "_說明_2": "Safari：Network → 撳 /q 個 row → 「要求」tab → 拉到最底「要求資料」→ copy 成舊 JSON → 貼落 payload。",
+  "_說明_3": "改名做 erb_request.json 即生效。跟住行：python build.py --only erb",
+
+  "url": "https://course.erb.org/q",
+
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Authorization": "Bearer 5f41cee61100d133",
+    "lang": "TC",
+    "cver": "1.11.6",
+    "cfirst": "0",
+    "Origin": "https://course.erb.org",
+    "Referer": "https://course.erb.org/"
+  },
+
+  "payload": {
+    "_註": "↓↓↓ 換走成個 payload，貼你抄返嘅「要求資料」（大約 175 個字元）↓↓↓",
+    "query": "貼返個 query 字串",
+    "variables": {
+      "commence_date": "3",
+      "cursor": null
+    }
+  },
+
+  "cursor_path": ["variables", "cursor"],
+  "course_url_template": "https://course.erb.org/searchlist?keyword={id}"
+}

@@ -1,0 +1,37 @@
+{
+  "_說明": "由 course.erb.org DevTools 抄返。persisted query：只送 operationName + sha256Hash。",
+  "_如果失效": "原站出新版時 sha256Hash 會變 → 重新抄一次 /q 個 request body（Response 有 erbcourses 嗰個）。",
+
+  "url": "https://course.erb.org/q",
+
+  "headers": {
+    "Content-Type": "application/json; charset=utf-8",
+    "Authorization": "Bearer 5f41cee61100d133",
+    "lang": "TC",
+    "cver": "1.11.6",
+    "cfirst": "0",
+    "Origin": "https://course.erb.org",
+    "Referer": "https://course.erb.org/"
+  },
+
+  "payload": {
+    "operationName": "ERBCourseSearchListQuery",
+    "variables": {
+      "params": {
+        "keyword": "",
+        "industrys": [],
+        "categorys": [],
+        "commence_date": "3"
+      }
+    },
+    "extensions": {
+      "persistedQuery": {
+        "version": 1,
+        "sha256Hash": "d68a7ca6ad7a3592a5a126e2ec97e534b72fcee94c7b370d6e6561609cc275fc"
+      }
+    }
+  },
+
+  "cursor_path": ["variables", "params", "cursor"],
+  "course_url_template": "https://course.erb.org/searchlist?keyword={name}"
+}

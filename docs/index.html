@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>青年機會匯 · 香港青年活動聚合</title>
+<meta name="description" content="自動整合香港各機構嘅青年活動、計劃同課程，可按類別、地區、年齡、費用篩選。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#10281F; --forest:#14503C; --moss:#2F7A5C; --mint:#DCEDE3;
+    --paper:#F5F3ED; --card:#fff; --line:#DFDCD2; --muted:#5F6B64; --amber:#E8A33D;
+    --rose:#B4523F;
+    --display:"Bricolage Grotesque","Noto Sans TC",system-ui,sans-serif;
+    --body:"Noto Sans TC",system-ui,-apple-system,sans-serif;
+    --mono:"IBM Plex Mono","Noto Sans TC",monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--body);line-height:1.6;-webkit-font-smoothing:antialiased}
+  button{font-family:inherit;cursor:pointer;border:none;background:none;color:inherit}
+  a{color:inherit}
+  :focus-visible{outline:3px solid var(--amber);outline-offset:2px;border-radius:6px}
+  .wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+
+  header{position:sticky;top:0;z-index:40;background:rgba(245,243,237,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+  .nav{display:flex;align-items:center;justify-content:space-between;height:68px}
+  .brand{display:flex;align-items:center;gap:12px}
+  .mark{width:38px;height:38px;border-radius:12px;background:var(--forest);color:#fff;display:grid;place-items:center;font-family:var(--display);font-weight:800;font-size:19px}
+  .brand b{font-family:var(--display);font-weight:800;font-size:19px}
+  .brand span{display:block;font-size:12px;color:var(--muted);font-family:var(--mono);line-height:1.2}
+  .nav-meta{font-family:var(--mono);font-size:12px;color:var(--muted);text-align:right}
+  @media(max-width:640px){.nav-meta{display:none}}
+
+  .hero{padding:52px 0 32px}
+  .eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--moss);margin-bottom:14px}
+  .hero h1{font-family:var(--display);font-weight:800;font-size:clamp(32px,5.5vw,56px);line-height:1.1;max-width:18ch}
+  .hero h1 em{font-style:normal;color:var(--moss)}
+  .hero p{margin-top:16px;max-width:54ch;color:var(--muted)}
+  .stats{display:flex;gap:26px;margin-top:26px;flex-wrap:wrap}
+  .stat b{font-family:var(--display);font-weight:800;font-size:26px;display:block;line-height:1.1}
+  .stat span{font-family:var(--mono);font-size:11px;color:var(--muted);letter-spacing:.06em}
+
+  .main{display:grid;grid-template-columns:280px 1fr;gap:28px;padding-bottom:80px;align-items:start}
+  @media(max-width:900px){.main{grid-template-columns:1fr}}
+
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:20px;position:sticky;top:88px}
+  @media(max-width:900px){
+    .panel{position:fixed;inset:0;top:auto;bottom:0;z-index:60;border-radius:24px 24px 0 0;max-height:84vh;overflow-y:auto;transform:translateY(101%);transition:transform .28s ease;box-shadow:0 -12px 40px rgba(16,40,31,.18)}
+    .panel.open{transform:translateY(0)}
+  }
+  .panel h2{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:500}
+  .fgroup{padding:16px 0;border-bottom:1px solid var(--line)}
+  .fgroup:last-of-type{border-bottom:none}
+  .flabel{font-size:13px;font-weight:700;margin-bottom:10px;display:block}
+  .pills{display:flex;flex-wrap:wrap;gap:7px}
+  .pill{border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:13px;background:#fff;color:var(--muted);transition:.15s}
+  .pill:hover{border-color:var(--moss);color:var(--forest)}
+  .pill[aria-pressed="true"]{background:var(--forest);border-color:var(--forest);color:#fff}
+  .agebox input,.datebox input{padding:9px 12px;border:1px solid var(--line);border-radius:10px;font-family:var(--mono);font-size:13px;background:#fff;color:var(--ink);width:100%}
+  .datebox{display:grid;gap:8px}
+  .agebox{display:flex;align-items:center;gap:8px}
+  .agebox input{width:90px}
+  .hint{font-size:12px;color:var(--muted);margin-top:8px}
+  .reset{width:100%;margin-top:16px;padding:11px;border-radius:12px;border:1px solid var(--ink);font-size:13px;font-weight:700}
+  .reset:hover{background:var(--ink);color:#fff}
+
+  .toolbar{display:flex;gap:12px;align-items:center;margin-bottom:16px;flex-wrap:wrap}
+  .search{flex:1;min-width:220px;position:relative}
+  .search input{width:100%;padding:14px 16px 14px 44px;border:1px solid var(--line);border-radius:14px;background:#fff;font-family:var(--body);font-size:15px;color:var(--ink)}
+  .search svg{position:absolute;left:15px;top:50%;transform:translateY(-50%);color:var(--muted)}
+  select{padding:14px;border:1px solid var(--line);border-radius:14px;background:#fff;font-family:var(--body);font-size:14px;color:var(--ink)}
+  .filter-btn{display:none;padding:14px 18px;border-radius:14px;background:var(--forest);color:#fff;font-weight:700;font-size:14px}
+  @media(max-width:900px){.filter-btn{display:block}}
+  .count{font-family:var(--mono);font-size:13px;color:var(--muted);margin-bottom:14px}
+  .count b{color:var(--ink)}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:22px;overflow:hidden;display:flex;flex-direction:column;transition:transform .18s,box-shadow .18s}
+  .card:hover{transform:translateY(-3px);box-shadow:0 14px 30px rgba(16,40,31,.09)}
+  .thumb{aspect-ratio:16/9;background:var(--mint);object-fit:cover;width:100%;display:block}
+  .body{padding:20px;display:flex;flex-direction:column;flex:1}
+  .row1{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-bottom:10px}
+  .status{font-family:var(--mono);font-size:11px;letter-spacing:.1em;padding:3px 9px;border-radius:999px;white-space:nowrap}
+  .s-open{background:var(--mint);color:var(--forest)}
+  .s-soon{background:#FBEDD5;color:#8A5A08}
+  .s-past{background:#EEECE5;color:var(--muted)}
+  .src{font-family:var(--mono);font-size:11px;color:var(--muted)}
+  .card h3{font-family:var(--display);font-weight:800;font-size:18px;line-height:1.32;margin-bottom:8px}
+  .sum{font-size:14px;color:var(--muted);margin-bottom:14px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+  .tag{font-size:12px;padding:4px 10px;border-radius:999px;background:var(--mint);color:var(--forest)}
+  .tag.n{background:#EEECE5;color:var(--muted)}
+  .tag.a{background:#FBEDD5;color:#8A5A08}
+  .meta{font-family:var(--mono);font-size:12px;color:var(--muted);border-top:1px dashed var(--line);padding-top:12px;margin-top:auto;display:grid;gap:5px}
+  .meta div{display:flex;gap:10px}
+  .meta span:first-child{min-width:42px;color:#9AA39D}
+  .acts{display:flex;gap:14px;margin-top:14px;font-size:14px;font-weight:700}
+  .acts a{color:var(--forest);text-decoration:none}
+  .acts a:hover{text-decoration:underline}
+  .acts a.apply{color:var(--rose)}
+  .empty,.loading{grid-column:1/-1;background:#fff;border:1px dashed var(--line);border-radius:22px;padding:56px 24px;text-align:center}
+  .empty b,.loading b{font-family:var(--display);font-size:19px;display:block;margin-bottom:6px}
+  .empty p,.loading p{color:var(--muted);font-size:14px}
+  code{font-family:var(--mono);background:var(--mint);padding:2px 6px;border-radius:5px;font-size:13px}
+  footer{background:var(--ink);color:#C9D4CE;padding:36px 0;font-size:13px}
+  footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  footer b{color:#fff;font-family:var(--display)}
+  .scrim{display:none;position:fixed;inset:0;background:rgba(16,40,31,.45);z-index:50}
+  .scrim.show{display:block}
+  @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <div class="brand">
+      <div class="mark">匯</div>
+      <div><b>青年機會匯</b><span>HK YOUTH OPPORTUNITIES</span></div>
+    </div>
+    <div class="nav-meta" id="navMeta">載入中…</div>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="eyebrow">每日自動更新 · 資料來自各機構官方網站</div>
+    <h1>全港青年活動，<em>一頁揀晒</em>。</h1>
+    <p>系統每日自動抓取各機構嘅活動同計劃，統一格式後喺呢度篩選。撳入去就直接去返官方報名頁。</p>
+    <div class="stats">
+      <div class="stat"><b id="sUpcoming">–</b><span>個仍可參加</span></div>
+      <div class="stat"><b id="sTotal">–</b><span>個項目總數</span></div>
+      <div class="stat"><b id="sSource">–</b><span>個資料來源</span></div>
+      <div class="stat"><b id="sGen">–</b><span>最後更新</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap main">
+  <aside class="panel" id="panel">
+    <h2>篩選條件</h2>
+    <div class="fgroup"><span class="flabel">狀態</span><div class="pills" id="fStatus"></div></div>
+    <div class="fgroup"><span class="flabel">類型</span><div class="pills" id="fKind"></div></div>
+    <div class="fgroup"><span class="flabel">類別</span><div class="pills" id="fCat"></div></div>
+    <div class="fgroup"><span class="flabel">地區／國家</span><div class="pills" id="fRegion"></div></div>
+    <div class="fgroup">
+      <span class="flabel">年齡</span>
+      <div class="agebox"><input type="number" id="fAge" min="0" max="99" placeholder="例：24" aria-label="年齡"><span style="font-size:13px;color:var(--muted)">歲</span></div>
+      <div class="hint">未列明年齡限制嘅項目一樣會顯示。</div>
+    </div>
+    <div class="fgroup"><span class="flabel">費用</span><div class="pills" id="fFee"></div></div>
+    <div class="fgroup"><span class="flabel">按金</span><div class="pills" id="fDep"></div></div>
+    <div class="fgroup">
+      <span class="flabel">舉行日期</span>
+      <div class="datebox">
+        <input type="date" id="dFrom" aria-label="由">
+        <input type="date" id="dTo" aria-label="至">
+      </div>
+    </div>
+    <div class="fgroup"><span class="flabel">來源</span><div class="pills" id="fSource"></div></div>
+    <button class="reset" id="reset">清除全部篩選</button>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <div class="search">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input type="search" id="q" placeholder="搜尋活動名稱、主辦機構、標籤…" aria-label="搜尋">
+      </div>
+      <select id="sort" aria-label="排序">
+        <option value="soon">最快舉行</option>
+        <option value="new">最新加入</option>
+        <option value="name">按名稱</option>
+      </select>
+      <button class="filter-btn" id="openPanel">篩選</button>
+    </div>
+    <div class="count" id="count"></div>
+    <div class="grid" id="grid">
+      <div class="loading"><b>載入緊活動資料…</b><p>正在讀取 data/events.json</p></div>
+    </div>
+  </main>
+</div>
+
+<div class="scrim" id="scrim"></div>
+
+<footer>
+  <div class="wrap">
+    <div><b>青年機會匯</b> · 只整合公開活動資訊並連結返原站，內容版權屬各機構所有。報名資格同截止日期以官方公佈為準。</div>
+    <div id="footMeta"></div>
+  </div>
+</footer>
+
+<script>
+const TODAY = new Date().toISOString().slice(0,10);
+let ITEMS = [], META = {};
+
+const state = {status:new Set(),kind:new Set(),cat:new Set(),region:new Set(),fee:new Set(),
+               dep:new Set(),source:new Set(),age:null,from:"",to:"",q:"",sort:"soon"};
+
+/* ---------- 載入資料 ---------- */
+async function load(){
+  try{
+    const [ev, meta] = await Promise.all([
+      fetch("data/events.json?t="+Date.now()).then(r=>r.json()),
+      fetch("data/meta.json?t="+Date.now()).then(r=>r.json()).catch(()=>({}))
+    ]);
+    ITEMS = ev.map(e=>({
+      ...e,
+      status: statusOf(e),
+      feeKey: e.is_free===true ? "free" : e.is_free===false ? "paid" : "unknown",
+      depKey: e.deposit ? "yes" : "no",
+      hay: [e.title,e.summary,e.organiser,e.venue,e.audience,(e.tags||[]).join(" "),
+            (e.categories||[]).join(" "),e.source_label].join(" ").toLowerCase()
+    }));
+    META = meta;
+    boot();
+  }catch(err){
+    document.getElementById("grid").innerHTML =
+      `<div class="empty"><b>讀唔到資料檔</b>
+       <p>如果係喺本機開，要行一個小型伺服器：<br><code>cd docs && python -m http.server 8000</code><br>再開 http://localhost:8000</p></div>`;
+  }
+}
+
+function statusOf(e){
+  const end = e.end_date || e.start_date, start = e.start_date;
+  if(end && end < TODAY) return "已完結";
+  if(start && start > TODAY) return "即將舉行";
+  if(start && end && start <= TODAY && TODAY <= end) return "進行中";
+  return "日期待定";
+}
+
+/* ---------- 篩選 UI（選項由資料自動生成，加新來源唔使改前端）---------- */
+const uniq = a => [...new Set(a.filter(Boolean))].sort();
+const FEE_LABEL = {free:"免費",paid:"收費",unknown:"未列明"};
+
+function buildPills(){
+  const groups = [
+    ["fStatus","status", ["即將舉行","進行中","日期待定","已完結"]],
+    ["fKind","kind", uniq(ITEMS.map(i=>i.kind))],
+    ["fCat","cat", uniq(ITEMS.flatMap(i=>i.categories||[]))],
+    ["fRegion","region", uniq(ITEMS.map(i=>i.region))],
+    ["fFee","fee", ["free","paid","unknown"].map(k=>[k,FEE_LABEL[k]])],
+    ["fDep","dep", [["no","不需按金"],["yes","需按金"]]],
+    ["fSource","source", uniq(ITEMS.map(i=>i.source_label))],
+  ];
+  for(const [elId,key,opts] of groups){
+    const box = document.getElementById(elId); box.innerHTML="";
+    opts.forEach(o=>{
+      const [val,label] = Array.isArray(o)?o:[o,o];
+      const b=document.createElement("button");
+      b.className="pill"; b.textContent=label; b.setAttribute("aria-pressed","false");
+      b.onclick=()=>{const s=state[key]; s.has(val)?s.delete(val):s.add(val);
+        b.setAttribute("aria-pressed",s.has(val)); render();};
+      box.appendChild(b);
+    });
+  }
+}
+
+function ageOk(i){
+  if(state.age===null || Number.isNaN(state.age)) return true;
+  if(i.age_min===null && i.age_max===null) return true;   // 未列明 → 照顯示
+  if(i.age_min!==null && state.age < i.age_min) return false;
+  if(i.age_max!==null && state.age > i.age_max) return false;
+  return true;
+}
+function dateOk(i){
+  const s=i.start_date, e=i.end_date||i.start_date;
+  if(state.from && e && e < state.from) return false;
+  if(state.to && s && s > state.to) return false;
+  return true;
+}
+
+function filtered(){
+  let r = ITEMS.filter(i =>
+    !i.delisted &&
+    (!state.status.size || state.status.has(i.status)) &&
+    (!state.kind.size || state.kind.has(i.kind)) &&
+    (!state.cat.size || (i.categories||[]).some(c=>state.cat.has(c))) &&
+    (!state.region.size || state.region.has(i.region)) &&
+    (!state.fee.size || state.fee.has(i.feeKey)) &&
+    (!state.dep.size || state.dep.has(i.depKey)) &&
+    (!state.source.size || state.source.has(i.source_label)) &&
+    ageOk(i) && dateOk(i) &&
+    (!state.q || i.hay.includes(state.q))
+  );
+  const far = "9999-12-31";
+  if(state.sort==="name") r.sort((a,b)=>a.title.localeCompare(b.title,"zh-Hant"));
+  else if(state.sort==="new") r.sort((a,b)=>(b.first_seen||"").localeCompare(a.first_seen||""));
+  else r.sort((a,b)=>{
+    const rank = x => x.status==="已完結" ? 1 : 0;   // 完結咗嘅永遠排最後
+    return rank(a)-rank(b) || (a.start_date||far).localeCompare(b.start_date||far);
+  });
+  return r;
+}
+
+const STATUS_CLASS = {"即將舉行":"s-soon","進行中":"s-open","已完結":"s-past","日期待定":"s-past"};
+
+function card(i){
+  const tags = [
+    i.is_free===true ? `<span class="tag">免費</span>` : "",
+    i.is_free===false ? `<span class="tag a">收費</span>` : "",
+    i.deposit ? `<span class="tag a">按金 ${i.deposit}</span>` : "",
+    ...(i.categories||[]).map(c=>`<span class="tag">${c}</span>`),
+    `<span class="tag n">${i.region}</span>`,
+    ...(i.tags||[]).slice(0,2).map(t=>`<span class="tag n">#${t}</span>`)
+  ].filter(Boolean).join("");
+
+  const meta = [
+    i.date_text ? `<div><span>日期</span><span>${i.date_text}</span></div>` : "",
+    i.time_text ? `<div><span>時間</span><span>${i.time_text}</span></div>` : "",
+    i.venue ? `<div><span>地點</span><span>${i.venue}</span></div>` : "",
+    i.organiser ? `<div><span>主辦</span><span>${i.organiser}</span></div>` : "",
+    i.audience ? `<div><span>對象</span><span>${i.audience.slice(0,60)}</span></div>` : "",
+  ].join("");
+
+  return `<article class="card">
+    ${i.image ? `<img class="thumb" src="${i.image}" alt="" loading="lazy">` : ""}
+    <div class="body">
+      <div class="row1">
+        <span class="status ${STATUS_CLASS[i.status]}">${i.status}</span>
+        <span class="src">${i.kind} · ${i.source_label}</span>
+      </div>
+      <h3>${i.title}</h3>
+      ${i.summary ? `<p class="sum">${i.summary}</p>` : ""}
+      <div class="tags">${tags}</div>
+      <div class="meta">${meta}</div>
+      <div class="acts">
+        <a href="${i.url}" target="_blank" rel="noopener">詳情 →</a>
+        ${i.apply_url ? `<a class="apply" href="${i.apply_url}" target="_blank" rel="noopener">立即報名 →</a>` : ""}
+      </div>
+    </div>
+  </article>`;
+}
+
+function render(){
+  const r = filtered();
+  document.getElementById("grid").innerHTML = r.length ? r.map(card).join("")
+    : `<div class="empty"><b>搵唔到啱條件嘅項目</b><p>試下放寬日期或者取消部分篩選。</p></div>`;
+  document.getElementById("count").innerHTML = `顯示 <b>${r.length}</b> / ${ITEMS.length} 個項目`;
+}
+
+function boot(){
+  const upcoming = ITEMS.filter(i=>i.status!=="已完結" && !i.delisted).length;
+  document.getElementById("sUpcoming").textContent = upcoming;
+  document.getElementById("sTotal").textContent = ITEMS.length;
+  document.getElementById("sSource").textContent = uniq(ITEMS.map(i=>i.source_label)).length;
+  const gen = (META.generated_at||"").slice(0,10) || "—";
+  document.getElementById("sGen").textContent = gen.slice(5).replace("-","/") || "—";
+  document.getElementById("navMeta").textContent = "資料更新於 " + gen;
+  document.getElementById("footMeta").textContent = "資料更新於 " + gen;
+  buildPills(); render();
+}
+
+/* ---------- 事件 ---------- */
+document.getElementById("q").oninput = e=>{state.q=e.target.value.trim().toLowerCase(); render();};
+document.getElementById("fAge").oninput = e=>{state.age = e.target.value===""?null:parseInt(e.target.value,10); render();};
+document.getElementById("dFrom").onchange = e=>{state.from=e.target.value; render();};
+document.getElementById("dTo").onchange = e=>{state.to=e.target.value; render();};
+document.getElementById("sort").onchange = e=>{state.sort=e.target.value; render();};
+document.getElementById("reset").onclick = ()=>{
+  ["status","kind","cat","region","fee","dep","source"].forEach(k=>state[k].clear());
+  state.age=null; state.q=""; state.from=""; state.to="";
+  ["q","fAge","dFrom","dTo"].forEach(id=>document.getElementById(id).value="");
+  document.querySelectorAll(".pill").forEach(p=>p.setAttribute("aria-pressed","false"));
+  render();
+};
+const panel=document.getElementById("panel"), scrim=document.getElementById("scrim");
+document.getElementById("openPanel").onclick=()=>{panel.classList.add("open");scrim.classList.add("show");};
+scrim.onclick=()=>{panel.classList.remove("open");scrim.classList.remove("show");};
+
+load();
+</script>
+</body>
+</html>
