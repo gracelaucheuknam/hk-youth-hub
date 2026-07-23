@@ -75,6 +75,46 @@
   "delisted": true
  },
  {
+  "id": "artmate:93168",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "《我城》深度遊",
+  "url": "https://www.art-mate.net/doc/93168",
+  "kind": "活動",
+  "categories": [
+   "展覽"
+  ],
+  "tags": [
+   "文學",
+   "文化",
+   "活動",
+   "免費"
+  ],
+  "organiser": "西西基金會",
+  "venue": "《我城》深度遊",
+  "region": "香港",
+  "start_date": "2026-03-01",
+  "end_date": "2026-08-06",
+  "date_text": "2026-03-01 ~ 08-01 / 2026-08-06 ~ 12-31",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "https://www.art-mate.net/buy_ticket/93168",
+  "enquiry": "info@xixifoundation.org.hk",
+  "summary": "西西空間專題活動「《我城》深度遊」以西西經典小說《我城》為重心，將作品十八章化為十八段「深度遊」，輔以「重畫《我城》」聯合畫展，讓各位從文本創作，到跨地域、語言、與媒體的互動形式，多角度深入探索這個「我」與「城」共生共鳴的藝術世界，發現其層出不窮的意趣與創作潛力。本展覽不但呈現歷年《我城》不同版本、翻譯與跨媒介的創作成果，也將展出部分西西從未曝光的手稿、珍本與畫作，以及《我城》報刊排印時所用的鑄版與剪報，並與空間常設的故居客廳重置展連結互動。收費場次：入場門票僅限當日參觀西西空間，於現場購買任何書籍，可全單扣減50元（紀念品及預購商品除外）。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202602/thumbnail/20260225_182604_h7WCcqyVC0_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-07-23",
+  "first_seen": "2026-07-23",
+  "delisted": false
+ },
+ {
   "id": "artmate:94001",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -186,7 +226,7 @@
   "summary": "【新手最愛！占星骰速成小魔法班】2小時解鎖宇宙快問快答秘技你是不是總在猶豫：「今天要不要告白？」「這份工辭唔辭？」「佢到底鍾唔鍾意我？」卻又唔想等排星盤等咁耐……嚟啦！占星骰就是你的「宇宙速答神器」～零基礎2小時上手，隨手一擲，宇宙即時回音！超簡單、超有趣～想像一下：小班幾個人圍坐，邊笑邊擲骰，邊問生活小煩惱，「哇，原來宇宙話我呢個決定係金星+天秤，甜甜蜜蜜但要平衡呀～」「哈哈，事業問題出咗火星+白羊，衝衝衝但小心燒過頭！」呢場唔係嚴肅課堂，而係一場療癒級宇宙聊天小聚：- 即學即玩：占星骰基礎 + 超實戰解讀技巧- 每人免費獲贈一套專屬占星骰套裝- 現場",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_111652_z46bEtVWF7_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -303,7 +343,7 @@
   "summary": "🌿 Allure 聲之覺醒：聽見，更要活得優雅「幾十年冇聽過音樂？」優雅地品味生活，並非遙不可及！✨創新聲學科技 ｜ 生活應用工作坊專為聽覺限制人士及親友而設我們致力透過創新聲學科技，令聽覺的限制不再成為享受生活的障礙。品味生活從來不是奢望 —— 無論是品嚐一杯精品咖啡的靜謐，還是感受音樂律動的熱情。不論您正使用傳統助聽設備，或初次了解 Dai3mimi 專利輔聽耳機，都歡迎來到 Allure 大坑中心世紀石屋，一同參與這場感官饗宴。（歡迎親友一同陪同參與）📅 【主題工作坊安排 ｜ 逢周六下午 2:00 – 5:00】🎻 古典音樂體驗工作坊* 活動日期：",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260716_044128_AITVh1UfXJ_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -342,7 +382,7 @@
   "summary": "🏛️ SoundSpa 工作坊 ｜ 耳內日夜在轟炸？📞 查詢及預約：62810823更多資訊，請瀏覽 https://www.allurehk.org/soundspa/#workshop耳內日夜在轟炸？共存並非唯一選擇！這是一場專為深受「耳內雜音與繁雜耳音」困擾人士而設的感官舒壓工作坊。在 Allure 大坑體驗中心世紀石屋的恬靜氛圍中，我們將透過互動與實作，利用獨家開發音頻，在舒緩環境中引導大腦感受靜謐空間，尋回內心平和。擁有安靜的力量，是追求優質生活、提升生活質素的開始。✨在這一節專屬的工作坊中，我們將透過 SoundSpa 獨特的聲振同步與雙耳聲",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260716_043907_EmyLvRBp7X_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-15",
   "delisted": false
  },
@@ -463,7 +503,7 @@
   "summary": "想循序漸進了解禪修方法，但一個人不知如何入手？由帶領人陪伴學員，從常霖法師的影片講解、閱讀分享、到修習體驗，輕鬆了解禪修方法，自然自在活用日常。四課主題 ：第一課 為什麼要禪修第二課 時刻活在當下第三課 找到人生意義第四課 自然自在放下本課程特別適合初接觸禪修者，可以面對面討論及分享，藉着共修的力量，循序漸進學習。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260423_134419_G2NRKMN9kg_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -504,7 +544,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:95528",
@@ -771,7 +811,7 @@
   "summary": "此工作坊乃藝術總監羅靜雯首次講授的獨脚戲表演工作坊。課程結合了羅氏近年教授的戲劇課程的內容以及多年來的劇場演出經驗，理論與實踐並重。羅氏的個人獨脚戲演出包括：達里奧·福(Dario Fo)的《她，一個人》(A Woman Alone)、Alfian Sa'at的《新加坡劇場小史》、CCCD的《白色的影子》等。是次八節的工作坊，主力訓練演員的個人特質的表達及詮釋能力、基本劇本分析、以及如何跟想像的觀眾溝通等。成功報名的學員，可選擇由導師提供的獨腳戲劇本或自創劇本，於內部結業演出時，演出一個20至30分鐘的獨腳戲(演出語言:粤語) ，並可邀請親朋戚友觀賞。由",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260526_134616_Ch0l9oZMnl_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -811,7 +851,7 @@
   "summary": "繼2026年倫敦工藝週（London Craft Week）成功展出後，位於香港的非營利慈善基金會飄雅活藝 (Crafts on Peel) 將於2026年6月23日至10月10日再次舉辦題為「藝脈新生」的展覽，首次展出張慧敏的《生如夏花》與林嘉裕的《大笨鐘》。「藝脈新生」展覽以耳目一新的手法呈現出多件精湛的工藝作品，匯聚了工藝師的技藝及新生代設計師和藝術家的創作靈感，形成一股極具前瞻思維的創意洪流。展覽場地為中環卑利街 11 號飄雅活藝會址，是一棟位於香港市中心的歷史建築。基金會一直通過促進兩代工藝師之間跨地域、世代和界別的合作及交流，致力於振興、重新",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260713_134011_OdTnI89E0Z_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -851,7 +891,7 @@
   "summary": "Sansiao Gallery HK is pleased to present Summer Exhibition 2026, featuring works by Christopher Makos, Helmut Newton, Makoto Saito, Rupert J. Smith, and Tseng Kwong Chi.The exhibition presents a selection of photographs, prints, and works on paper from the gallery's collection, b",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_112936_soqThg0227_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -890,7 +930,7 @@
   "summary": "探討當代藝術中「物件」、「物質性」與「混合媒介」的理論與實踐，引導學員透過實驗性創作，重新思考材料、形式與觀念的關係，並發展個人藝術語言。此課程強調「從創作中思考」，適合激發創作靈感並深化對當代藝術脈絡的理解。課程內容第一堂：基礎與觀念啟發- 物件的意義與物質性的轉化- 當代藝術中的「物件」：從現成物到裝置藝術- 物質性的哲學與美學：材料如何承載觀念、情感和回憶？- 談當代藝術常見的創作法則：功能轉化 、錯置 、質感 、大小與比例 、色彩 、重複 、份量、重量、正負空間 第二堂：混合媒介的歷史與技術實驗- 打破媒介界限：從拼貼到混合- 混合媒介的演變：從",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_155707_ZdzAv3E4Rc_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -929,7 +969,7 @@
   "summary": "輪上拉坯除了是陶瓷製作的特有技法外，也可以作沉浸式訓練，及帶來平靜和自我療癒的感覺。在這個進階工作坊，學員將在已有的基礎上，以混合的陶土作進一步探索，摸索出符合自己的手感和創意形式，更可按照初階的研習及體驗，深化身心意創作的空間，同時保持身心與意的和諧。以自信、輕鬆和享受的心態享受陶輪，並嘗試建立自己未來的陶瓷創作路向及風格。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_161147_2DKCwMgppR_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -968,7 +1008,7 @@
   "summary": "青花及彩繪瓷始於中國自唐代，是中國古代陶瓷發展的一個里程碑。在立體的陶瓷器物，加上平面的繪畫，讓陶瓷創作空間更廣，更闊。本研習坊以承先啟後的創作精神：在學習技法之餘，也著重情感的表達及療癒果效。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260505_191145_yV8tFhyH7k_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1007,7 +1047,7 @@
   "summary": "我們追隨時尚步步向前又好似步步走回過去——也斯〈花布街〉時間脫了臼。如幽靈般徘徊的，不止是過去，還有曾被過去承諾、卻未抵達的未來。你翻到一張舊照片，一個似曾相識的風景，感到某種說不清的憂傷。是不是因為你懷念那個年代？但你發現你那時候還沒出生。也許，是因為照片裡有一種你未擁有過的東西？也許，那裡有一種對未來毫無保留的興奮？也許，那裡有一個曾被預言、卻從未到來的未來？德文的「hin und her」 形容著一種來回搖擺、無法得出結論的思緒。中文「來來回回」描述了一種無法安定、無法結束、無法停止的狀態。兩個語言描述一種相同的時間處境。時間不再前進，只是不停地往",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260610_152208_z8KSN3n3xN_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1046,7 +1086,7 @@
   "summary": "這個課程當中，學員學習炭筆的使用與多種技法，為作品賦予生命。課程包括學習獨立完成靜物、風景和動物的炭筆畫作，從中提升觀察力，透過筆觸發展並展現自己。課程內容第一堂：炭筆與相關繪畫物料的介紹、炭筆基本技巧- 認識炭筆及其種類- 不同工具介紹：擦筆、塗抹工具等- 不同紙張的影響與選擇- 基本繪畫技巧：握筆、筆觸及陰影第二堂：炭筆技法介紹：學習起形、理解構圖與比例- 基本平面畫法：線條、塗抹、平面效果- 基本圖形畫法：球體、柱體的繪製- 濃淡層次運用技巧第三堂：靜物素描- 繪製靜物- 使用所學技法增強明暗與細節，表達情感第四堂：生果、植物素描- 繪製水果、花卉",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_163329_VaODrABP5w_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1163,7 +1203,7 @@
   "summary": "《平地數碼：錄映太奇特刊》現已推出！本次是錄映太奇首次主理《平地》的公開徵集，從全球各地的創作者一共收集 480 件精彩作品，眾聲相積成論述的浩瀚汪洋。請即前往個人檔案內的《平地》網站，在聲影資訊的大海中淌漾。從即日起至7月26日，我們也會在錄映太奇會址（牛棚藝術村13號單位）舉辦自選影院。逢週三至日（中午12點至晚上7點），觀眾可在我們的展覽空間隨意選擇精選作品觀賞。期望在線上線下，也能見到大家！錄像雜誌得以順利推出，有賴各位創作者的踴躍參與和評審的敏銳視角，特此致謝。「面對紛呈的題材及聲影手法，汪洋般的資訊讓我們彷彿隨創作者掌舵航行。每件作品都是一段",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_145415_COW6sjHKQS_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1202,7 +1242,7 @@
   "summary": "學員將展開探索中國傳統山水畫的旅程，全面了解這藝術的豐富歷史和演變，集中研究宋代和明代的精緻風格。課程中，學員將研習這些時期特有的基本筆法和構圖技巧，通過闡釋及臨摹經典名作來增強藝術表達，集中研究渲染層次、皴法和設色等元素。此外，學員亦會學習分析及品評名作，提升對鑑賞中國山水畫藝術特質及不同風格的素養。課程內容：第1堂山水畫介紹- 中國傳統山水畫的概述及其歷史- 宋代山水畫的主要特徵介紹- 山水畫用具和材料的介紹第2堂宋代山水畫技法- 學習宋代山水畫中的筆法和構圖技法- 練習基本的樹法及石法第3堂宋代名作臨摹 ( 第一部分 )- 開始臨摹選定的宋代山水名",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_163750_nYBbCb6wZM_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1241,7 +1281,7 @@
   "summary": "由環境保護署 主辦、街坊帶路 執行的海灣物語跳島遊活動承蒙大家的支持，6月份的活動早前已滿額。我們欣然宣布，將會在6月27日，28日以及7月份加開一共12場導賞活動，讓早前未能成功報名的公眾人士亦能夠參與其中，認識海灣與不同島嶼的故事。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260609_153228_Y0QQ0VrXAa_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1281,7 +1321,7 @@
   "summary": "本課程將帶領學員深入探索中國傳統書法與篆刻藝術之美。首五個課堂，學員將臨習元代書法家趙孟頫的名作《赤壁賦》，學習如何在毛筆與宣紙上表達情感與意境。此外，課程還包括篆書書法的專題學習，及後三個課堂製作自己姓名印章，讓學員能將所學應用於個人創作中。 課程中，學員將從基本的書法筆劃學起，逐步掌握行書書體的特點。每堂課不僅涵蓋技術訓練，還鼓勵學員欣賞經典書法作品，體驗書法篆刻的獨特表現力。 課程內容包括：- 中國書法及篆刻的歷史與發展- 了解行書的特點，從趙孟頫《赤壁賦》入手- 探索中國文化中書畫印其二- 掌握篆刻技法，並製作屬於自己的姓名印章，別具意義 歡迎報",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_163651_2aMCyyRBJw_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1320,7 +1360,7 @@
   "summary": "時光機回到文藝復興時代，體驗米開安哲羅（Michelangelo）、達文西（Leonardo da Vinci）和拉斐爾（Raffaello Sanzio da Urbino）等大師的風采。這個密集課程介紹以上大師所運用的繪畫技巧，技巧得以應用及提升，最終成為經世作品。- 分析指定傑作的作畫技巧，並將技巧加以提升- 練習以鋼筆和畫筆描繪紋理- 透過堆疊方法建立3D結構- 利用水和畫筆營造不同的漸層和色調效果- 透過明暗的表達呈現3D效果- 從藝術的觀念和創作過程中的習慣／態度，對自己有更深入的了解立即報名，領會文藝復興大師的才華！",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260505_191319_i4ReyLogqA_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1359,7 +1399,7 @@
   "summary": "歡迎來到陶器世界的藝術語言：陶紋。這裡每個圖案都揉合古典傳統與創意天賦。探索不同線條如何為陶器帶來美觀和實用性，並將每件作品的藝術成分昇華。 陶器上的紋飾除了用作裝飾外還有實際的用途。在古時以手捏方法製作陶器，再用泥拍拍打陶器使其密致及更耐用，拍打後的陶器會留有泥拍上的紋飾或繩子的印痕，紋飾裝飾了陶器同時使其不易滑手。 一同在拉坯作品中加入紋飾以豐富坯體，將生活中發現的物件壓在坯體成為獨特的紋飾。 立即報名，刻畫「陶」上新意！",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_164751_21htgL9PAx_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1398,7 +1438,7 @@
   "summary": "繪本，看似只是加上圖畫的故事，簡單不過。但對於創作者而言，繪本卻有千百萬種不同的藝術可能，以及層次豐富的文學意義。 我們將探討繪本插圖的各種表現技術，以及作者層出不窮的敘事手法，從而揭示繪本創作的重要竅門，一筆一劃地勾勒故事。對於已經修畢本學院「繪本的創作藍圖（1）」基礎課程的學員，或已對繪本藝術略有經驗的人仕，將會發現這個進階課程特別受用和更富滿足感。 本課程包括一系列的實用導論，為學員講解圖象敍事的基本法則和技巧。例如：如何創造有趣的人物角色和故事場景、如何善用色彩與材質來增強畫面的氣氛和感染力、如何加添裝飾性的細節，為頁面增添風味或象徵意義、如何活",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260505_191450_ZCVqpabDa1_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1479,7 +1519,7 @@
   "summary": "因第一輪反應熱烈，香港藝術中心（動漫基地）將於 2026 年 7 至 12 月推出第二輪動漫「墨」搏計劃！動漫「墨」搏旨在聚焦香港新銳與資深漫畫及插畫藝術家的獨特聲音。此次活動為藝術家提供探索視覺敘事故事的舞台，最終將以個人展覽形式呈現創作歷程與最終成果。現公開召集您的優秀提案及作品，一旦入選，您的創作將有機會於香港藝術中心二樓動漫基地展出，並參與公眾互動活動（如藝術家講座、工作坊、現場繪畫）。既能揭開創作過程的神秘面紗，亦可促進藝術家與公眾之間的深層連結，不容錯過！",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_175104_zjv8oe8sVv_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1518,7 +1558,7 @@
   "summary": "結合文化古蹟與聲音療癒，饒宗頤文化館銅鑼/頌缽聲浴，為你開啟一趟靜心之旅。銅鑼聲浴: 1 July 11:45am - 12:45pm / 2:15-3:15pm頌缽聲浴: 8, 15, 23 July; 6, 13, 20, 27 August 5-6pm",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260623_214710_l9NKtCl9r6_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1557,7 +1597,7 @@
   "summary": "七月的熱情，讓我們用搖擺舞點燃！ 每週三晚，藝穗會 × Hong Kong Swings 帶你跳進搖擺舞的狂歡之夜！不管你是初學者還是熟手，只要一踏進舞池，就能感受Swing的節奏與快樂。 派對開始前會有半小時導師教學，讓你輕鬆掌握新舞步！其後數小時自由舞會，與親朋好友共享歡樂時光。七月共設五場搖擺舞社交舞會，特別推出限時優惠：購買同時段三張門票以上可享九折，月票亦享九折優惠。期待每星期三與你在藝穗會共度難忘夜晚！ *教學時段於8點15分開始。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260630_160709_mYlH7hAJPv_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1635,7 +1675,7 @@
   "summary": "2026第3季舞蹈課程 ( 上課日期：02.07-16.09.2026 )*適合年齡3-12歲上課地點：城市當代舞蹈團CCDC 舞蹈中心，大埔安邦路12號大埔藝術中心1樓101-102 室網上報名：由 11.06.2026 ( 星期四, 6:00pm ) 起 ( 每次報名只限一位，兩位或以上請重新登記 )瀏覽課程資料：http://www.ccdc.com.hk/dc-taipo/alternative-classes/報名須知：http://www.ccdc.com.hk/dc-wts/enrolment/tp-cdp/ 上課日誌：http://www",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260603_191622_KoMvmnXhcZ_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1673,7 +1713,7 @@
   "summary": "2026第3季舞蹈課程 ( 上課日期：02.07-16.09.2026 )*適合13歲或以上 上課地點：城市當代舞蹈團CCDC 舞蹈中心，大埔安邦路12號大埔藝術中心1樓101-102 室網上報名：由 11.06.2026 ( 星期四, 6:00pm )起( 每次報名只限一位，兩位或以上請重新登記 )瀏覽課程資料：http://www.ccdc.com.hk/dc-taipo/報名須知：http://www.ccdc.com.hk/dc-wts/enrolment/tp-sdc/ 上課日誌：http://www.ccdc.com.hk/dc-wts/cl",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260604_104323_yE61FTFT3G_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1715,7 +1755,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-20",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97650",
@@ -1831,7 +1871,7 @@
   "summary": "【 活動預告《日常迴響：於確定與不確定之間》】日常的城市風景，在記憶中究竟是清晰的紀錄，還是模糊的推演 視覺藝術家余加希（Yu Ka Hei, Eric）@eric_yu_ 將其透過其黑白攝影作品、燈箱 / AI-3D作品、及照片到3D列印，帶領觀者遊走於傳統類比攝影與當代 AI 技術之間，重新思索城市、記憶與真實的關係。那些舊時的日常物件：一個飾物、一件玉器、一個酒杯，不再只是工具，而是成為記憶的承載體，邀請觀者透過視覺重新感受當時的時間質感。它們將瞬間轉化為觸覺的語言，讓觀者以身體與記憶共鳴。這是一段從觀看走向共鳴的旅程，一場與時間、感知與存在展開的",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260707_093903_HYsweadlxD_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1987,7 +2027,7 @@
   "summary": "當一個地方仍有人訴說，它的過去便不會消散，而是在當下的想像之中延續。是次展覽沿著黃竹坑交疊的歷史展開——這片昔日被稱為「小香港」的土地，海洋、聚落、工業與記憶在此交匯。從黃竹坑的石刻，到依溪而建的圍村與棚屋，窄窄的竹橋隨潮水輕晃，這片土地從未靜止。煙火標記離散，海岸改變，建築拔地而起，水線記錄人群的遷移；棲息於明渠旁的蒼鷺，也悄然遠去。裝置如一段空間行旅：一座細長竹橋通往竹構編織的小屋，屋內呈現流動影像、印有石刻紋樣的藍曬絲絹，以及由在地聲音生成的3D列印植物。展場成為沉思之所，村落生活、水域記憶與遷移軌跡在此交織。作品營造出一個關於失落、適應與接納的空",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_173437_nPnX5tdLWr_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2027,7 +2067,7 @@
   "summary": "《七。 漆之月》漆藝作為傳統工藝與當代創作的融合，正值「七」月份，我們會以特展、現場示範與研習班等不同形式，呈現漆藝經典技法與創新實踐。多位漆藝專家與創作人將親臨香港，為大家展現漆藝跨世代的多元面貌 ，引領觀眾體驗大漆的細緻工序與材質特性，感受大漆作為當代創作媒材的活力與無限可能。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_180216_Pc5fEguTFG_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2105,7 +2145,7 @@
   "summary": "課程誠邀所有人士，無需經驗也可報讀，探索沙畫的力量。課程以導師馬穎章的所設計的沙畫教學模式：基礎技巧共分十四式，每堂學習3-4式，透過藝術娓娓道出故事，過程充滿治癒感。課程寓教於學，讓學員從基礎技巧到圖像初稿，從概括意念到準確表達，創作自己的故事，同時體驗沙畫帶來的創造力和舒壓效果。課程結束時，學員將對這種獨特的藝術媒介有紮實的掌握。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_165803_sjFZrYLXpp_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2144,7 +2184,7 @@
   "summary": "繼早前於中環交易廣塲舉辦的五周年展覽「我們乘光旅行」後，本地精神健康慈善機構 香港心聆（Mind HK）消除污名計劃「我就是我 More Than a Label」再度出發，推出全新社區活動系列「週末情緒故事分享：一齊走標籤啊唔該！」，由 7 月 4 日起一連六個星期六的下午，邀請公眾走進城市不同角落的空間，與心聆大使（精神健康挑戰親歷者）輕鬆聚首，聆聽他們親歷的真實故事。計劃得到凱瑟克基金及思健的支持，以及宏利香港及澳門的贊助。｜六大主題 呼應不同人生階段的精神健康需要｜是次分享會系列圍繞六個與日常生活息息相關的精神健康主題，包括：家長精神健康、幼兒母",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_103120_FAoRCIPDEk_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2222,7 +2262,7 @@
   "summary": "五位不同背景的類藝術系畢業生，在行程滿滿的生活之中，他們仍決定投放時間接觸藝術創作，累積經驗值會獲得甚麼名號嗎？藉由擬定虛構計劃書，他們從願景中認識跨領域知識與穩定規律的輔助價值；亦從前輩的際遇與實戰經驗中，了解到創作以外的各類技巧與手段。尚未被賦予藝術家稱號之前，每一次展出都是解鎖新技能的自訂課題。藝術家的技能牌組可以由甚麼組成呢？-------------期間限定活動造神速成班：高級動物流量操盤術 尹穎琳作品Lecture performance by @_winglamarte5/7(日) 3pm - 3:30pm評論日 Art Crit Day ",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260707_133332_RFmdtJBJYh_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2261,7 +2301,7 @@
   "summary": "在有限的時間裡，光像種子一樣開始，在停頓與移動之中曾彌合彼此、縫合城市空間和經驗中的瞬息，它若作為一種安靜的材料，總帶著一種親密而安靜的詩性。透過行為攝影、流動影像與現成物，以觀念尋找城市中的光跡。在場域中，藝術家藉由身體在空間中的介入，揭示與收錄植物和日常投擲的靜默語言——在其中凝視對時間的感受。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260616_135459_fP4YU3Ulhu_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2340,7 +2380,7 @@
   "summary": "在幽暗的空間裡，我們如同未被點亮的燈具——靜止、沉默，自身不過是玻璃、金屬與空洞的形體。然而，當光從背後悄然湧來，我們成為了光的介質。「背光」探討的不是發光，而是我們在世界正在怎樣成為光的載體。光從後方穿透，在我們身上折射、散射，形成一層薄薄的光暈——反射真光的餘輝。光從不屬於我們，卻因我們而被看見。本展覽透過極簡鏡面裝置、油畫、光影互動作品，以及沉浸式空間設計，邀請觀者感受「被照亮」的過程。同時，您不僅是觀看者，更是折射光線的人——步入展場，您的身影成為光影作品的一部分。這是一場關於光、影、人與空間的對話，一次從背光走向回光的旅程。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260626_140210_JXrWnARHyg_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-18",
   "delisted": false
  },
@@ -2382,7 +2422,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-22",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:95753",
@@ -2418,7 +2458,7 @@
   "summary": "《Staria/SDA 暑期課程 2026 》2026 今年暑假投入我們的藝術體操暑期課程，融合K-pop Ribbon Dance、打翻與翻騰二大主題。本課程適合各水平的孩子，打造更優雅、更有才能的自己，並以盛大的表演 Staria & Star Dream Summer Show作為完結節目。🎉 (1) 2026 Summer showcase (2026年8月29日)報名日期：5月15日至8月10日荔枝角詳情 : https://bit.ly/SP_LCK上課地點：荔枝角長沙灣長沙灣650號,中國船舶大廈, 705 室石門詳情 : https://",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260513_172528_4Rtsn4CjzC_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2457,7 +2497,7 @@
   "summary": "放工後身心疲累，頭肩頸膊腰通通緊張無比，齊來透過簡單的練習，把繃緊的身心舒展，釋放負面情緒。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260606_150140_clAVDdABcQ_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2496,7 +2536,7 @@
   "summary": "透過了解繪畫、詩、攝影及電影等藝術作品，我們將介紹主要的文化理論家 ( 集中於當代議題 ) 。課程著眼文化理論如何隱含在藝術當中，而不是理論如何應用在藝術之上。亦歡迎沒有相關知識的人士報讀。課程內容(1) 切線式的親密閱讀梁秉鈞、波特萊爾及王家衛等作品，討論藝術和文化理論之間切線式般的親密關係。討論如何在藝術作品中感受文化理論。(2) \"Les Meninas\"通過傅柯對Velázquez的 Las Meninas的討論，了解繪畫如何引領理論的思考。(3) 散漫的藝術從Hans Holbein the Younger的「The Ambassadors」 ",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_170542_dkNj2IJlix_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2649,7 +2689,7 @@
   "summary": "《Staria/SDA 暑期課程 2026 》2026 今年暑假投入我們的藝術體操暑期課程，融合K-pop Ribbon Dance、打翻與翻騰二大主題。本課程適合各水平的孩子，打造更優雅、更有才能的自己，並以盛大的表演 Staria & Star Dream Summer Show作為完結節目。🎉 (1) 2026 Summer showcase (2026年8月29日)報名日期：5月15日至8月10日荔枝角詳情 : https://bit.ly/SP_LCK上課地點：荔枝角長沙灣長沙灣650號,中國船舶大廈, 705 室石門詳情 : https://",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260513_172459_i6DBbh28lF_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2688,7 +2728,7 @@
   "summary": "修行於呼吸之間，體驗動中帶靜，鬆而調和。透過太極運動，以其剛柔並濟，意氣相連的動作協調內心的平靜，感受身心合一，自然平衡之境。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260601_101635_zRxP2vC5Zf_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2726,7 +2766,7 @@
   "summary": "《嗍》一呼一吸，創作如呼吸。當世界太過喧囂，我們選擇用力吸氣，排空周遭雜質，重塑創作者最純粹的本真。本年度展覽以「抽空」為概念，我們試圖凝結流動的當刻，抵抗距離與視覺上的失焦；在近乎真空的狀態下，抽離外界的扭曲、擠壓與干擾，將自我認知轉化為一場集體的真空存檔。媒體本是時間的載體，在記憶的曖昧、模糊與混沌中，同學透過多維度的影像與空間，反芻出創作裡尚未被定義的可能。我們在不熟悉之中重構過去，在被框架的現實裡拓展想像。一嗍一刻，將萬物抽空，唯獨留下創作的呼吸。----------節目內容----------1. 表演日期 : 8/7/2026 (星期三)時間",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260710_163633_vU75sx4SRA_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2765,7 +2805,7 @@
   "summary": "原子筆以其出色的便攜性成為隨手創作的理想工具，透過筆壓控制與疊色技法，既能表現素描般的細膩層次，亦可堆疊出飽和色塊。其油性墨水具防水耐光特性，作品便於長期保存。彩色原子筆更能透過混色與漸層技法，藝術表現力大幅加乘。釋放彩色圓珠筆的生動潛力，掌握它們的特性、不同紙張的配搭要點。學員可精煉關鍵技巧，如線條控制、混合原理和質感表達，從單色陰影到多色漸變，逐步建立色彩架構能力。課程著重實踐，確保每週作品皆可獨立展示，幫助學員穩步建立能反映出個人風格的作品集。 課程內容第一堂：工具特性與基礎筆法- 工具解析：油性與水性原子筆差異、紙張紋理選擇要點- 六大基礎技法：",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_171011_4d9NSlAJBN_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2845,7 +2885,7 @@
   "summary": "活動將於展覽期間特定時段舉行，由計劃合作藝術家親自帶領，參加者將能更了解創作背後的故事與理念，探索作品中的細節與情感。 導賞會提供與藝術家直接對話的珍貴機會，讓大眾能夠更深刻地體驗和欣賞藝術作品的魅力，另同場設有互動環節，可讓參加者身體力行地參與其中。歡迎各位踴躍參加，共同感受藝術的力量！ 對象： - 歡迎沙田區居民及公眾人士參與 - 無需舞蹈經驗 備註： - 每場活動長約兩小時 - 歡迎公眾人士、計劃學員參與，名額有限，先到先得，額滿即止 - 共設有六場活動，節目內容相同 - 場次將陸續公佈，請密切留意舞團最新消息",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260702_155740_KRj6lcnFyR_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2884,7 +2924,7 @@
   "summary": "活動將於展覽特定時段舉行，舞團紀錄了多年來推行《身體年輪》的歷程，把所有活動製作成精華片段，希望透過分享會，向公眾展示計劃的點滴和成果。另同場設有互動工作坊，可讓參加者身體力行地參與其中，感受舞動身體的喜悅。 對象： - 歡迎沙田區居民及公眾人士參與 - 無需舞蹈經驗 備註： - 每場活動長約兩小時 - 名額有限，先到先得，額滿即止 - 共設有六場活動，節目內容相同 - 場次將於稍後公佈，請密切留意舞團最新消息",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260702_160424_FgxCLEiccC_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3004,7 +3044,7 @@
   "summary": "熊輝 X 朱樂庭藝術項目 ｜梁展峰 策劃「複數即超昇」是一個介紹兩位香港藝術家熊輝與朱樂庭近期創作的藝術項目。項目以雙軌形式呈現——同一作品既在實體空間出現，亦衍生出線上虛擬版本，讓兩種觀看經驗互相折射，重新複製的創造力。藝術家先在現實中生產作品，再將其轉化為數位版本；數位版本的差異，又回頭影響觀眾對實體原作的感知。這項目以重製（replicate）與擬仿（imitation）為核心，回應當下生活文化：我們早已活在線上線下平行的時空裡——現實事件化為網絡迷因、虛擬經驗反過來形塑日常，兩個時空持續消融重構。「複數」一語雙關：語法上指眾數(plural)，數",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260708_170636_QfkguFGbpk_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3043,7 +3083,7 @@
   "summary": "已故的美學家丹托說：「當代的藝術變得越來越「小」，但用來支持藝術的理論卻越來越多。」的確，很多現代藝術品跟日常事物沒有什麼大分別，彷彿理論的支持就成會藝術的根據。姑不論這種情況是好是壞，認識這些理論對我們欣賞當代藝術實有很大的幫助。二十世紀出現了不少影響或用來解釋藝術的理論，如馬克思主義、女性主義、結構主義、解釋學和後現代主義等等。本課程共五講，當中將介紹某些較為重要的理論，及如何將它們應用到藝術的創造和評價上。第一講：馬克思主義第二講：解釋學和符號學第三講：後現代主義第四講：女性主義第五講：多元主義",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260504_171231_OUSkRS3Ysz_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3122,7 +3162,7 @@
   "summary": "《靈》 -取自古時巫者以祈禱、舞蹈連繫天地、祈澤降雨的古老儀式意象。雨為水，水承情，象徵世間流動、細膩且真實的萬般情感。本届藝術高級文憑畢業生將藝術創作視為一場溫柔的儀式媒介，透過創作與內在自我展開深度對話、審視自我、梳理情緒與成長經歷。展覽將一眾創作者私密的內心思辨與無形情感，轉化為具體、可觸、可共鳴的藝術實體，從個人內觀延伸至公共藝術場域，讓觀者走進創作者的精神世界，感受他們在自我觀照、探索與自我實現路上的每一步蛻變。誠邀各位來臨參觀2026年度藝術高級文憑畢業展，感受《靈》背後的創作故事，親身感受本屆畢業生純粹真誠的創作力量。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260612_151918_tSWFBBbV44_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -3240,7 +3280,7 @@
   "summary": "於油麻地藝術地標打開「心窗」罕見病友畫作首度展出「心渡遊」藝術展覽：於油麻地老酒店，走進11種勇敢活著的方式11幅由罕見病患者親手繪畫的「心窗」畫作，將於7月11日至26日在油麻地東南樓藝術酒店22樓首度公開展出。為此隆重其事，我們將於7月10日舉行開幕禮。「心渡遊」由插畫品牌Little Angel Annie、罕見病慈善機構LifeWire（護•聯網）及東南樓藝術酒店三方聯乘。11位罕見病友以「心窗」為意象，將自身經歷與感受化為畫作--有人畫下病房窗外的幻想天地，有人描繪心底最想抵達的遠方，有人以線條記錄與疾病共存的日常。每一幅畫，都是一種勇敢活著的",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_110030_DCyBW7R6zU_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3279,7 +3319,7 @@
   "summary": "“An Inquiry into the Moulding of the Body from Clay” begins with this myth to explore the relationship between body and nature. If the body was first made from earth, then skin may be read as the earth's surface, texture as mountains and rivers, memory as sedimented strata, and b",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_140110_NaAEx4453H_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3357,7 +3397,7 @@
   "summary": "本屆香港浸會大學視覺藝術院（AVA）主辦之 2026 年度視覺藝術文學碩士畢業展，以「獨響成眾 Polyphony In Resonance」為題，探討進行著多重媒介創作實踐的我們，如何在同壹研究環境裏將獨立的聲音融為和諧的樂章。 Polyphony源自古希臘語 polyphōnia，本意為“許多聲音”，是多個獨立、平等的旋律線同時進行、交織共存的音樂形式，Resonance則代表為藝術情感和思想上的深度契合與回響。世界上沒有壹模壹樣的人，在行色匆匆， 摩肩接踵中，藝術所引起的共鳴隱秘深刻，直擊人心。這正是我們想要展現和探討的理念，藝術將眾多獨立的人格，",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260629_114601_1ry2uD5EMx_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3397,7 +3437,7 @@
   "summary": "禪修幫助我們覺察並放下執念，體驗內心的平靜與喜悅。由心呼吸助教連同每週一位神秘嘉賓，親身分享自身禪修經驗及故事，一起共修聽故事!",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_151002_lb0r4hOwkZ_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3596,7 +3636,7 @@
   "summary": "靜謐的花園，漂浮的島嶼，隱密的巢穴，留在記憶中的地方。「開箱2026：怡人之地——賴恩．維拉馬爾」是一項緩慢生長的參與式項目，邀請不同年齡的參與者，共同創作一片紙藝樹冠。隨著時間推移，多層懸垂的枝葉逐漸交織，形成共享的集體景觀。「怡人之地」是菲律賓藝術家賴恩．維拉馬爾持續進行的「Locus Amoenus」系列創作之一。「 Locus amoenus 」在拉丁語中意指如夢似幻的田園之境，象徵庇護、豐饒與和諧。此系列作品透過歷史與集體記憶的探索，梳理構成一個地方的豐富層次，以及那些將人與其連結起來的無形脈絡。觀眾可漫遊於這片沉浸式、如林般的環境之中，在漂浮",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260710_113224_GDKcIHKwaO_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3635,7 +3675,7 @@
   "summary": "禪修在擊鼓，聲聲入心。「鼓禪班」，藉由擊鼓，覺察身心意，體驗「動中修靜、道藝合一」。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260616_105854_R7WUODz2Hb_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -4110,7 +4150,7 @@
   "summary": "超現實是創意和靈感的泉源，為現代藝術及設計開僻了廣闊而創新的可能。此油畫課程讓孩子挑戰其天馬行空的想像界限 —— 透過奇幻的物件、非一般的造型、不按常理的編排等，用油彩繪建富凝聚力且別具個性的視覺世界，表達出複雜意象及空間概念。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260417_100744_Tw0V27hUZe_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4227,7 +4267,7 @@
   "summary": "金級課程將以經典音樂劇《Annie》為靈感，專為5–6歲熱愛表演的小朋友而設。課堂會以輕鬆有趣的戲劇遊戲、動聽歌曲和簡單舞蹈為基礎，帶領小朋友逐步建立自信心、創意同團隊合作精神。相比初階課程，金級課程將帶來更深入同具挑戰性的表演體驗，讓小朋友探索角色塑造、聲音運用、肢體表達和故事演繹，同時提升溝通能力和社交技巧。課程最後，小朋友將會在展演室內呈現一齣精彩的結業演出，結合演戲、唱歌和跳舞，全面展現學習成果和自信，親身體驗舞台魅力。一齊加入我們，展開一段充滿歡笑、成長和團隊精神的旅程啦！ *參與者應具備2年以上的英語學習經驗。 *課程費用已包括Trinity",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260629_170249_5FVgGtGvHe_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4268,7 +4308,7 @@
   "summary": "銀級課程將以《海底世界》為主題，專門為4至5歲的小朋友而設。課程涵蓋基本的表演、唱歌和舞蹈技巧，小朋友亦會進一步學習在完整的故事結構中展現角色之間的互動。透過學習進階的戲劇表演激發孩子的想像力與創造力，並建立自信心。課程末有課堂展演，讓小朋友展示他們在課程中所學到的技能並享受演出的樂趣。讓我們一齊探索神秘與奇幻的海底世界，在玩樂中學習與成長，踏上神秘的奇幻旅程吧！*參與者應具備1至2年的英語學習經驗。*課程費用已包括Trinity Stars考試費用，以及服裝、道具。*課程總共有18堂，包括Trinity Stars考試。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260629_165638_1eCl8cUNlb_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4308,7 +4348,7 @@
   "summary": "銅級課程以《快樂的動物派對》作為主題，專為3.5至4歲的小朋友而設，旨在透過藝術激發每個孩子的自信及創意。小朋友們將化身成為不同的動物，通過充滿趣味的活動學習表演、合唱和舞蹈的基本技巧，例如基本運用身體語言及英語對白等。孩子在探索他們的想像力的同時體驗團隊合作和建立自信。課程末有課堂展演，小朋友們能展示他們在課程中所學到的技能，並找到演出的樂趣。快來加入我們的兒童戲劇課程，發現兒童戲劇的樂趣吧！ *參與應具備6個月至1年的英語學習經驗。*課程費用已包括Trinity Stars考試費用，以及服裝、道具。 *課程總共有20堂，包括Trinity Stars",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260629_165301_grp0INH34D_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4347,7 +4387,7 @@
   "summary": "夏日成長小舞台今個夏天，香港話劇團教育中心為不同年齡階段的小朋友築起了「成長小舞台」。戲劇導師將運用遊戲、角色扮演與小組創作，透過故事與情境進行感統認知、培養好奇、鼓勵探索、情理互動、呈現與創作的訓練。每輪課程均設特定的主題和焦點，滿足不同年齡的學習需要。( 按此查看主題 ) 幼兒課程（適合2026年9月升讀N班至K3班幼兒）以不同的主題貫穿課程，運用故事情節中的情境，讓幼兒發揮想像，建構角色的形體與台詞。幼兒將經歷不同的戲劇情境，並以所扮演的角色解決疑難，從而提升表達與應變能力！還有一系列的音樂律動與集體遊戲，讓幼兒樂在其中！兒童課程（適合2026年9",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260528_160935_kqaP42tHgh_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4544,7 +4584,7 @@
   "summary": "SMILE™中英兒童戲劇課程(Summer)以學校年級分班，分為Pre K1、Pre K2、Pre K3及Pre P班*。SMILE™️ Summer按月份劃分（每年7-8月），分爲兩期。每期的最後一課設公開課，將邀請家長一同分享學習成果。 中英劇團兒童戲劇課程自2008年開辦以來，整理出SMILE™️這最精粹的幼兒教育理念，透過群體活動和藝術訓練，提升幼兒在五大範疇發展，包括：• 自理能力（Self-care）• 身體協調（Motor skills）• 智能開發（Intelligence）• 語言與溝通（Language）• 社交與情緒發展（Emoti",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260430_182810_pPOPNnEWwS_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4588,7 +4628,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97004",
@@ -4702,7 +4742,7 @@
   "summary": "《offLINE》100+ASIA，正式登陸 @elementshk由即日起，圓方金區L1層變咗一個屬於亞洲嘅藝術現場 - 100個亞洲創作單位嘅原作，走出展覽館，行入商場中庭，行入大家日常生活場境。由復古City Pop風格嘅Ardhira Putra，到跨代對話嘅永井博；現場仲有offLINE x ARDHIRA PUTRA聯名會場限定產品開賣！走進藝術迴廊，每件作品都以合理價格發售，擁有藝術作品不再是高不可攀。期望各位親身嚟到，同我哋一齊將呢一連11日變成香港嘅藝術新地標。Offline 先，後生活。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260720_182435_XWfJ7Wa88P_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-20",
   "delisted": false
  },
@@ -4861,7 +4901,7 @@
   "summary": "展覽匯集了照顧者以及關注照顧者議題的公眾人士的創作。這些創作者未必接受過專業藝術訓練，卻願意以藝術為媒介，真誠地表達自己對生活、工作與照顧家庭的情感與承擔。展覽中的作品形式多元，包括複合媒材的互動裝置、微縮場景、撕紙拼貼、水彩與線條的抽象表現，以及具有意義的象徵物件與投影創作。細覽之下，《生活花園》以微縮庭院，呈現照顧者內在的秩序與平靜；《碎片與重組》透過撕紙與拼貼，直面回應壓力所帶來的碎片，並在重組的過程中尋求自我修復；《生命的點與線》以簡約的點線交織，記錄生命流轉的軌跡；《休息的權利》邀請觀眾在觸摸與發現中重新思索「休息」的意涵；《照顧者的多元時空》",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260710_114119_DD4vvgNUTM_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -4942,7 +4982,7 @@
   "summary": "托勒密博物館全新特展即將開幕! 喜歡生態、自然歷史的你不容錯過~展覽以中國古代博物學與香港自然探索為雙重視角，展出中國古代博物學珍貴古籍、博物繪畫、本地生物標本等重磅展品。是次展覽更設置四組沉浸式互動藝術裝置，觀眾將穿梭於古籍的自然圖像之中、步入清宮萬生園、俯瞰香港山海生境，最終化身博物學家進入微觀生態現場，呈現中國傳統自然知識與香港本土博物學發展之間的歷史脈絡與當代對話。展覽內容將於本月逐一揭曉，多項公眾活動亦即將發佈，歡迎追蹤本館社交媒體以取得最新資訊。7月16日，誠邀您與我們一同遊歷，重新思考人與萬物之間的關係。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260720_100711_AK5jixqENi_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -5325,7 +5365,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97409",
@@ -5711,7 +5751,7 @@
   "summary": "1962年開始入戶的漁光村，將會清拆重建，其獨特的建築風格，詩意的背景及寫實的人民生活，希望能於重建前讓大家深度感受。珍惜仍可入村參觀的機會，下次重遊漁光村可能已是另一番景象。漁光村所屬的香港仔區，於香港開埠前已是漁民集區地，仍保留不少歷史建築及其故事，深度遊會同時遊走這些地點。集合地點：漁光村海鷗樓巴士站（漁光道）（可乘巴士 595, 70, 70P, 76, 971號到集合地點）一萬步遊漁光村https://www.instagram.com/reels/DZZS0dtpaai/更多深度遊選擇 https://www.art-mate.net/GFC",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260629_221619_0XEARaOFmD_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-13",
   "delisted": false
  },
@@ -6794,7 +6834,7 @@
   "summary": "本戲劇藝術營專為小小表演家而設，務求釋放孩子的創意與想像力，讓繪本故事活靈活現！課程不僅培養孩子對講故事與戲劇的熱愛，還能促進團隊合作、溝通，及自我表達等重要技能。每天，孩子們將沉浸在講故事的樂趣中，合作將喜愛的繪本故事戲劇化，探索角色、場景與情感，學習將故事從書頁帶到舞台上生動呈現。過程中，他們將培養分析角色情感和故事情節的能力，提升對敘事元素的理解。為讓故事更生動， 孩子們將透過有趣的活動與練習，學習如何以動作、身體語言和台詞表達技巧來表達自己，更清晰有效地傳達情感。這些創意練習不但能增強表演能力、培養自信，更有助克服舞台恐懼，讓他們勇於公開演說。成",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260417_111143_JDPhTREqxa_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -6834,7 +6874,7 @@
   "summary": "巧思創意在夏日綻放，讓孩子們的靈感乘着夏天清風自由飛翔！此4日藝術營專為小小藝術家而設，每日提供不同類別的藝術活動，以培養他們的技能，激發靈感。每天探索不同形式的之藝術範疇，小腦袋全力激活！孩子將會投入一系列精彩刺激的藝術大冒險︰漫遊在油彩課中的絢麗世界，學習不同繪畫技巧，激發創意及鼓勵孩子表達自我；在陶藝課中學習手捏技巧基礎，親手塑造自己的得意作品，並從裝飾及上釉技巧中展現創意，為作品注入生命。然後在手機攝影課中，他們將以鏡頭作畫，探索光線、視角和簡單的相機工具，如何將日常的瞬間化為藝術品。最後走入沙畫課堂啟動觸覺，探索沙粒的獨特質感與流動性，訓練大小",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260417_104442_kW3zGJZew8_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -6874,7 +6914,7 @@
   "summary": "學生將參與製作故事書的不同步驟，包括敍事發展、探索顔色配搭，以及掌握圖像敍事的繪畫與拼貼技巧， 從而親手製作出一本屬於自己的故事書。課程內容以高階故事發展作為重點，透過繪畫及拼貼、專業封面設計及結合內頁，製成一本精緻的故事書。課程內容：- 創作故事線- 內容創作 ( 畫與拼貼 )- 封面設計、組合內頁",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260417_113826_27hN7DO2Qz_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -6914,7 +6954,7 @@
   "summary": "演出以敦煌文化為核心，結合當代藝術與音樂創作，揭示敦煌文化於當代語境下的缺失及還原。跨媒體演出分為「還相」、「還音」、「還人」、「還緣」四章，由新媒體藝術家與作曲家聯手，樂師現場演繹，以藝術與音樂重構敦煌的文化意義。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260710_175021_pwU2ywvnB3_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -6952,7 +6992,7 @@
   "summary": "本課程教授刮痧經絡療法用於面部的技巧，正確使用刮痧板，不僅無痛感，每天堅持5分鐘，在家就能輕鬆瘦臉，減少皺紋、提亮肌膚，還能改善臟腑的健康及提升美容保健之效。快速拯救黑眼圈有效改善乾性/敏感皮膚面色紅潤，提振精神刺激穴位，調節臟腑平衡加速新陳代謝，排毒瘦臉促進血液循環，緊緻肌膚",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_163221_17mPV2qP1g_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -6990,7 +7030,7 @@
   "summary": "本課程教授穴點認識、臉部撥筋優點、注意事項，以及臉部經絡撥筋手法操作及程序，從深層改變肌膚，讓你擁有由內而外的好氣色！重塑臉部輪廓打造細緻毛孔消除眼周小細紋認識臉部肌肉脈絡撥筋技法淋巴排毒技巧",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_162413_GfSqsa3Em5_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7030,7 +7070,7 @@
   "summary": "夏日暑假，絕對是孩子探索全新音樂世界的最佳時機！「兒童創意音樂暑期工作坊」將帶領兒童學習創作、嘗試編曲，甚至親手製作屬於自己的樂器。在工作坊內，孩子將透過創作學習音樂，在實踐中體驗音樂的樂趣與可能性。工作坊將以輕鬆有趣的氛圍進行，由導師帶領學童透過節奏遊戲、樂器探索及充滿想像力的音樂故事，一同認識「音樂蛋糕」的各種元素。每個活動均針對特定的音樂元素設計。每節一小時的課堂將以英語進行，並設有主題，讓小朋友更容易投入其中。課程內容包括：- 投入節奏遊戲，提升身體協調及節拍感- 探索多種不同類型的樂器- 創作及編寫簡單音樂，激發創意- 透過聲音與想像力發展音樂",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260715_031900_tOsPNbeE1z_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7070,7 +7110,7 @@
   "summary": "今個暑假，創意、靈感通通召集，以陶泥激發藝術小宇宙！這個陶藝藝術營專為小小陶藝家而設，學員將挑戰高級的手捏成型與拉坯技巧，並學習精緻的上釉方法，讓作品栩栩如生。除了技術層面，學生還將學到以陶藝表達自我，親手搓出富有夏日風情 ，以及各式動物等作品，將精湛的工藝與富有意義的藝術表達完美結合。立即報名，用創意點亮暑假！",
   "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260417_122059_QtIVkZGKxt_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7149,7 +7189,7 @@
   "summary": "更多詳情：https://dramagiclkstaipo.com/theatre",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_111626_rfKtHXYx5h_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7158,7 +7198,7 @@
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
   "source_type": "活動平台",
-  "title": "【中環】DanceHub 「舞動健康」工作坊（第六期）【早鳥優惠】",
+  "title": "【中環】DanceHub 「舞動健康」工作坊（第六期）",
   "url": "https://www.art-mate.net/doc/97314",
   "kind": "活動",
   "categories": [
@@ -7168,11 +7208,10 @@
   ],
   "tags": [
    "活動",
-   "身心靈",
-   "早鳥優惠"
+   "身心靈"
   ],
   "organiser": "香港舞蹈聯盟",
-  "venue": "【中環】DanceHub 「舞動健康」工作坊（第六期）【早鳥優惠】",
+  "venue": "【中環】DanceHub 「舞動健康」工作坊（第六期）",
   "region": "香港",
   "start_date": "2026-07-22",
   "end_date": "2026-07-22",
@@ -7190,7 +7229,7 @@
   "summary": "香港舞蹈聯盟致力於推動舞蹈界發展，並探索舞蹈對社會不同群體的幫助。我們與創意夥伴Eaton Club 合作推出六期《舞動健康》系列，展示舞蹈在維繫身心健康的功用。在與 Eaton Club 合作的工作坊中，這個系列將結合科學、運動和舞蹈實踐，促進跨學科對話。===============================DanceHub 舞動健康工作坊 #6 (中環)辦公室極限求生: 打工仔的身體微調實驗室專為經常久坐、肌肉緊繃的打工仔而設的課堂系列。本課程由身體入手，引導學員觀察日常動作、動態與身體語言（Body Language）。透過結合身心學（So",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_155516_mjMaEe7nVQ_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7228,7 +7267,7 @@
   "summary": "親手為獨一無二的天然原石打造專屬繞線設計！課程將教授基礎金屬線纏繞技巧，讓學員為不同形狀的原石創作精緻吊墜。無需經驗，輕鬆學會固定、裝飾及收尾技法，展現個人風格與自然之美。（每人製作2件成品）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_100329_ZpQM2gFwpH_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7266,7 +7305,7 @@
   "summary": "本課程教授製作水晶滴膠的方法，再利用天然乾花植物、金屬銅片混合樹脂聚合而成，製作成獨一無二的裝飾擺設，送禮自用皆宜。（每人製作2件成品）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_095627_2NBEzlruUS_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7302,12 +7341,12 @@
   "is_free": false,
   "fee_text": "HKD 960",
   "deposit": "",
-  "apply_url": "https://rsvp.mill6chat.org/buy_ticket/96476",
+  "apply_url": "",
   "enquiry": "enquiry@mill6chat.org",
   "summary": "要成為超級英雄又怎能沒有屬於自己的披風？來親手製作一件吧！在這個兩天夏令營中，小朋友將認識CHAT六廠社群計劃「種學織文2026」 所種植的植物，並學習把大自然中的色彩與形態帶進布藝創作。透過樹葉拓印、染布及基礎縫紉，每位參加者都會親手製作一件專屬自己的超級英雄披風。這件披風亦可變身成實用圍裙，陪伴孩子投入日常小任務。超級英雄無分男女，歡迎所有小朋友參加，打造自己的英雄造型！第一天：為布料染色小朋友將在CHAT工作室學習樹葉拓印技巧，然後親手採集葉子與花朵（如萬壽菊、紅花和藍草等），以樹葉拓印的技法，為布料添上獨一無二的色彩與圖案。第二天：縫製屬於自己的",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260604_150803_3NYYUqlJcQ_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7385,7 +7424,7 @@
   "summary": "「KICK」是一個結合了AI、投影、手繪、動畫、電影、聲音和燈光效果的展覽。探索在自身及周遭事物都是一個難以處理的狀態下，創作者如何面對各自的疑問及糾結。觀眾將穿梭於數位與類比世界相互交融的空間:投影將牆面化為流動的畫布；互動裝置讓觀者親身參與作品，模糊觀看者與創作者的界線。手繪作品與動畫帶來原始的人性溫度，而電影、聲景與燈光則共同營造出富有電影感的沉浸式氛圍，深刻觸動觀者的情感。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260622_163828_bdOeAjEw1j_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7427,7 +7466,7 @@
   "summary": "「屍話」有話說~人性本有善與惡，人們往往會為了求生而做出選擇。有些人外表看似良善，實際上卻表裡不一；內心則隱藏著截然不同的人性面貌。在善與惡的拉扯與掙扎之中，你會如何抉擇？展覽中的詩和畫互相呼應，並以舞蹈展示出不同作品的意念，讓觀眾更立體多面去感受這主題，願這段藝術旅程為大家帶來心靈的觸動，對生命有更深一層的反思。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_115816_Xxnb27fc4S_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7467,7 +7506,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-21",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "youth_gov:b19ca8d5-0dc1-42d0-aa95-d0f4b7221edf",
@@ -7540,7 +7579,7 @@
   "summary": "本課程由資深芳療導師設計，融合古法肚燭與耳燭療法，結合現代芳療科學，教授安全有效的雙重護理技術。學員將學習肚燭的腹部溫灸原理與耳燭的耳部淨化技巧，透過精油配方協同作用，舒緩現代人常見的腹脹緊繃、耳壓失衡與壓力疲勞。課程包含完整理論解析與實操演練，結業可獲證書，助您將傳統智慧轉化為日常保健的實用技能。（課程提供教材、實操材料及證書）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_152707_dqb6clzr5d_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7578,7 +7617,7 @@
   "summary": "《水口手記》由城市日記 @urbandiarist 團隊製作出版，於本年 2026 年五月面世。城市日記自 2015 年先後出版《同話水口》及拍攝紀錄片《水口婆婆的山歌》，並於 2023 年再次走訪水口，以文化景觀角度，記錄人文歷史、村民與環境共存。本書編委團隊將舉辦新書分享會，由主編黎穎詩博士、設計師蔡志厚、攝影師陳浩倫及朱煒傑主講。 凡成功報名並出席的參加者，均可免費獲得《水口手記》一套。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260707_134350_mopFgBXLD4_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7617,7 +7656,7 @@
   "summary": "生命迴響 《一人一故事劇場》大埔火災社區療癒計劃在故事中相遇，在迴響中療癒",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260705_140411_J3cjxu2SvH_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7657,8 +7696,48 @@
   "summary": "一個讓你用「劇場」走進生活、學校、社區，把不同故事及議題變成行動及改變的平台！由加戲工作室、B drive及 香港戲劇教育發展中心主辦，並由 融hub協辦的「香港戲劇教育及應用劇場祭2026」，包含「應用劇場」及「戲劇教育」不同的模式，包括生死教育劇場、論壇劇場、一人一故事劇場、互動劇場、應用劇場分享會及工作坊等等，讓教育界、學校、社區及不同人士都能夠透過「香港戲劇教育及應用劇場祭」，把劇場及戲劇教育應用在不同議題及不同層面上。誠邀：應用劇場工作者 / 學校老師 / 社工 / 以及對戲劇與社會實踐有興趣的你！—我們想做什麼？《香港戲劇教育及應用劇場祭20",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260713_104801_EovCWQnlpA_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98272",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "世界咖啡館：人生下半場",
+  "url": "https://www.art-mate.net/doc/98272",
+  "kind": "活動",
+  "categories": [
+   "講座"
+  ],
+  "tags": [
+   "其他",
+   "活動",
+   "免費",
+   "身心靈"
+  ],
+  "organiser": "六鄉山莊",
+  "venue": "世界咖啡館：人生下半場",
+  "region": "香港",
+  "start_date": "2026-07-24",
+  "end_date": "2026-07-24",
+  "date_text": "2026-07-24 ( 2:00 PM ~ 4:00 PM )",
+  "time_text": "2:00 PM ~ 4:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "過往大半生，你走過最難忘的一段路是什麼？是當年為了生活拼搏的黃金歲月？還是看著家庭與孩子成長的溫馨點滴？ 人生走過大半程，我們見過高山低谷，經歷過家庭、工作、成長與轉變。 所謂「下半場」，不是退場，而是另一個更自在、更從容的開始。 「世界咖啡館：人生下半場」是一個為長者而設的交流聚會，讓大家放慢腳步，一起回顧走過的歲月，分享生命中的高光時刻與難忘故事， 也談談此刻的心境與未來的期待。我們相信，每一位長者都是一本厚重而精彩的書。透過彼此分享，我們不只是回望過去，更能重新發現自己的價值與力量。 活動內容包括： - 輕鬆破冰交流 人生故事分享 - 小組對話與互",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260723_144119_JWywfRNBlW_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-07-23",
+  "first_seen": "2026-07-23",
   "delisted": false
  },
  {
@@ -7695,7 +7774,7 @@
   "summary": "本課程教授以全天然材料，包括天然植物精油，能幫助減少皮脂分泌，縮小毛孔，而且有很好的美白作用，斑點淡化，明亮膚色，加上極佳的殺菌效果，可說是潔淨肌膚的好幫手。（包括上課材料及1瓶60ml洗臉泡泡）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_161845_ligalVcqpO_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7733,7 +7812,7 @@
   "summary": "告別熬夜熊貓眼！親手調製天然植物精油眼霜，精選永久花等珍稀成分，有效改善黑眼圈與眼袋問題。課程將傳授專業配方與製作技巧，讓疲憊雙眼重現明亮光采。無需經驗，適合所有追求天然護膚的愛美人士。課堂每人製作15g的眼霜（正常可使用約2-3個月）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_160940_r76sTuZuhR_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7773,7 +7852,7 @@
   "updated": null,
   "scraped_at": "2026-07-22",
   "first_seen": "2026-07-19",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97105",
@@ -7810,7 +7889,7 @@
   "summary": "費用包括：• 上課用品及筆記• 7-8月期間的頌缽聲浴課1次• 以成本價加購頌缽課程特點• 16 小時極致濃縮：涵蓋 Level 1+2內容，專注傳授最實用的呼吸法、伸展、頌缽按摩及聲浴技巧。•有薪實習：從「輔助頌缽師」做起，循序漸進累積經驗。• 參演 9月《頌繞劇場》：本期表現優異的學員將獲選成為輔助頌缽師，讓您的療癒技能在真正的大舞台上綻放！課程內容：• 頌缽的基本知識：探討歷史背景、聲音原理與挑選方法。• 自我療癒方法：學習如何運用缽聲為自己排解壓力、達致內心平衡。• 科學測試方法：如何用科學、客觀的方法測試與評估頌缽的頻率與品質。• 呼吸法配合：",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_082021_ald7AV0mS1_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7851,7 +7930,7 @@
   "summary": "12位曾經或正在經歷焦慮、抑鬱狀況的朋友在 《Me Amo 我愛我 自畫自演計劃》繪畫導師帶領下由自畫像創作出發，以繪畫抒發、探索內在的我，把生命的情感轉化成為色彩與線條。數十幅的畫作帶領觀眾進入他/她們的世界，在畫框中呈現出和自己的對話。除了畫作，12位朋友在戲劇導師的帶領下透過不同的戲劇練習發掘各種分享自身故事的可能性，並在導師協助下整合成為兩個和畫作互動的演出，每一個獨特的故事，都是在慶祝學會一點一滴更愛自己。展演2026-07-25 ~ 07-26 ( 3:00 PM , 5:00 PM )免費活動，需報名登記展演劇目：25/7（Sat）3:00",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260705_162201_J6ouxzEWyG_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7890,7 +7969,7 @@
   "summary": "想過一個充滿創意的夏天？「藝術另計 ALTART」衝破傳統教育框架，與多位創作者攜手帶來跨越七至九月的藝術活動，彈性選時的個別活動到循序漸進的系列活動均有涵蓋。歡迎大家一同參與，展開您的夏日藝術探索！名額有限，先到先得！● 個別活動（可選擇出席時段）研陶 | 神秘陶泥俱樂部｜工作坊一：糊陶接龍M Archive | M 班 – M&m's 文獻研究駐留計劃 | 路線遊動任務 1 & 2毛巾柒 | 墨花意象Print門野 | 城市圖像交換派對:共享型互動學習▲ 系列活動（須出席所有節數）ROVE Design Studio | 接地氣!梁翠萍 | 「物的操",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260713_140732_grDY7wcPcP_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7930,7 +8009,7 @@
   "summary": "眼睛看見的，由身體去經歷；身體帶回來的，以創作去定格。 藝術創作猶如一場「出走與回歸」的旅程。工作坊以「旅行」為概念，結合形體動作與視覺藝術體驗，邀請參加者透過身體、感官與藝術展開探索，突破既有邊界。參加者從空間與動作出發，感受身體與環境的連結，以及情感與想像的流動；再把這段感知經歷帶回視覺創作之中，以線條、色彩及不同物料留下具體的痕跡。 我們如旅人般出走，如智者般帶着嶄新的體驗與視野回歸。當不同的經歷與表達彼此交織，我們亦將在回歸之中發現創作的蛻變與更多可能。 日期：2026年7月25日（星期六）時間：14:00 - 16:00地點：西九文化區戲曲中心",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260716_101604_3h4eohvg5Z_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -7969,7 +8048,7 @@
   "summary": "有想過藝穗會的外觀為甚麼是紅白雙間嗎？外牆的紅磚、冰庫的白色瓷磚與奶庫的花紋瓷磚又各有甚麼歷史淵源？藝穗會導賞團現正接受報名！立刻報名，與我們一起遊走於這幢百年歷史建築，探索大樓中的各個隱秘角落，聆聽一段段舊日絮語。特色：． 探索這幢超過130年歷史的一級歷史建築的不同角落，包括平時並不對外開放的空間： - 陳麗玲畫廊 - 地下劇場 - 奶庫 - 賽馬會劇場 - 冰庫 ． 從建築特色切入，由導賞員分享這幢愛德華時代風格建築的歷史故事，從而加深對香港開埠初期歷史與本地藝術文化發展的認識． 附送精美紀念品乙份，亦可以優惠價格50元加購特色單肩布袋",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260706_173919_w4qw6VVfIi_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8011,8 +8090,51 @@
   "summary": "打開與萬物同鳴的溫柔視角！「慈悲為本生命教育計劃」經歷了六年與協作小學的深度實踐，今次展覽將精選深受師生歡迎的課堂設計，轉化成互動展品！展覽從「自然、食農、社區、公民」四大日常生活主題出發，並同步發佈兩本全新本地原創價值教育繪本《這個遊戲不簡單》及《樹上有隻珍珠龍》。作品分別由著名繪本藝術家 Joanne Liu及張韻珊 協力創作。展覽及繪本分別取材自真實的課堂設計及學生故事，呈現如何將體驗學習融入課堂，為校內推動生命教育、價值觀教育及學科教育提供貼近生活的學習素材。場內設有邊玩邊思考的互動展品，可與孩子及朋友一起體驗更多欣賞及感知日常生活美好的方式。展",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260629_160809_jUzcbyJ288_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98215",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「照顧的藝術」展覽活動｜免費公眾導賞及工作坊",
+  "url": "https://www.art-mate.net/doc/98215",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽",
+   "導賞",
+   "工作坊"
+  ],
+  "tags": [
+   "多媒體",
+   "活動",
+   "免費",
+   "身心靈"
+  ],
+  "organiser": "領航者生涯規劃發展有限公司",
+  "venue": "林適一",
+  "region": "香港",
+  "start_date": "2026-07-25",
+  "end_date": "2026-07-25",
+  "date_text": "2026-07-25 ( 11:00 AM ~ 11:20 AM ) / 2026-07-25 ( 12:00 NN ~ 12:20 PM )",
+  "time_text": "11:00 AM ~ 11:20 AM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@nlpdhk.org",
+  "summary": "7月25日星期六導賞+展品互動A3: 11:00-11:20A4: 12:00-12:20導賞+表達藝術創作 (舞動x花畫）B4: 14:30-15:15B5: 15:30-16:15B6: 16:30-17:15這個別具意義的藝術展覽,帶你走近那些為家庭默默付出的照顧者, 探索他們背後的故事, 感受那份無聲卻深刻的愛與堅韌 展覽為「2025-2026照顧者故事與理想家庭友善措施展覽互動分享計劃」之一部分 *此項目由平等機會委員資助，活動內容並不代表平等機會委員會的觀點",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260723_120251_NZNx9yvdIf_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-07-23",
+  "first_seen": "2026-07-23",
   "delisted": false
  },
  {
@@ -8051,7 +8173,7 @@
   "summary": "「書」必然是印有圖文並釘裝成冊的紙本嗎？在當代藝術中，書為何成為許多藝術家的創作媒介，甚至激發出各種形式的回應與革新？當代印藝2026年專題展覽「點止執印切釘——書的藝術」匯聚六組不同媒介的藝術家，呈現「書」的多元面貌。展覽導賞將引領大家透過版畫及裝置等跨媒介作品，解構當代藝術如何開拓書的界限，揭開書的無窮可能。參加者亦將可欣賞眾多活版印刷相關展品及藝術家書籍，並親身體驗活版印藝，印製紀念卡！",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260706_180304_wCQiqpBuYc_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8090,7 +8212,7 @@
   "summary": "喜歡日本的小麻因好奇「卸下遊客濾鏡，住在日本，我還會喜歡日本嗎？」於是以Working Holiday簽證在東京租屋、讀語言學校、找兼職、發展新興趣……這本書記錄的，不只是東京生活。更是小麻子獨自在異地重新認識自己的故事。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260709_164902_GKCmlUiX4H_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8128,8 +8250,46 @@
   "summary": "本次工作坊將深度探討表演中的「身體邊界與變形」，透過以太舞踏獨有的基礎訓練方式，帶領學員淨化自己，安穩心身，從而進入身體的異質想像，並引導學員體驗「舞踏譜」微觀意象在肉身中的顯影與變形，摸索出自己的非語言表演形式。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260716_163726_cFjxqivzRD_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98276",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "創造外星人紙皮手偶工作坊 @ 每月一次．細路主場 【7月場】",
+  "url": "https://www.art-mate.net/doc/98276",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "工作坊"
+  ],
+  "tags": [
+   "活動"
+  ],
+  "organiser": "六鄉山莊",
+  "venue": "創造外星人紙皮手偶工作坊 @ 每月一次．細路主場 【7月場】",
+  "region": "香港",
+  "start_date": "2026-07-25",
+  "end_date": "2026-07-25",
+  "date_text": "2026-07-25 ( 2:00 PM ~ 3:30 PM )",
+  "time_text": "2:00 PM ~ 3:30 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD50",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "「如果外星人住在不同星球，他們是長甚麼樣子的？」 在7月25日的「每月一次．細路主場」，讓小朋友化身「小小宇宙設計師」，發揮無限想像力，親手創造屬於自己的外星人！ 透過呢個工作坊，小朋友可以： - 大膽想像 – 根據不同星球條件，創造屬於自己嘅獨特外星人 - 動手創作 – 用不同材料親手做出立體外星人手套手偶 - 表達分享 – 同其他小朋友討論外星人嘅外貌同能力，介紹自己嘅設計 每位小朋友都可以在輕鬆有趣的氣氛下，發揮創意、練習手工、提升溝通表達能力，做個充滿想像力同自信嘅小小宇宙設計師！",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260723_144407_fXpfozTmzS_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-07-23",
+  "first_seen": "2026-07-23",
   "delisted": false
  },
  {
@@ -8166,7 +8326,7 @@
   "summary": "以簡單的筆法體驗中國水墨畫的魅力。課程將涵蓋基本的繪畫技巧、用筆、上色等方面的知識，並進行實踐練習。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_153733_fiDrWqdIlo_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8206,7 +8366,7 @@
   "summary": "歡迎登上燕鷗號，燕鷗船長將引領各位尋寶人踏上這次的旅程。這次旅程中藏著一個世代相傳的燕鷗秘密，想揭開秘密的話。這樣一來，你就會明白為何燕鷗世世代代都要遠赴香港那些偏遠的小島。活動地點：吐露港及燕鷗島 ( 不登岸 )塔門 ( 登岸及嘉年華 ) 燕鷗節2026有咩玩? 有咩食?赤洲及燕鷗小島 09:15 – 12:00燕鷗觀賞，了解燕鷗的生態習性，學習正確的保育方法！ 燕鷗節紀念品，帶走一份屬於燕鷗節的美好記憶！燕鷗嘉年華 12:00– 15:45漁民新村特色美食攤位，鄉村文化！懷舊小食製作，集體童年回憶！懷舊服飾打卡 ，打印照片留念！我和村長有個約會，聽聽",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260627_142054_SOyrbenOfP_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8244,7 +8404,7 @@
   "summary": "香港人生活壓力大，肩頸痛、失眠、脫髮問題困擾你？而家你有機會掌握 天然香薰舒壓技巧，仲可以 自製專業級護理產品，隨時呵護自己同家人！我哋嘅香薰天然舒壓護理DIY證書課程專為香港人設計，教你用純天然精油同按摩手法，有效解決疲勞、失眠、頭痛問題，完成課程更可獲頒證書，無論自用定轉型健康行業都得！課程重點：四大實用技能一次掌握天然舒緩疲勞助眠按摩油調配工作坊▸ 學習用薰衣草、甜橙等精油自製助眠按摩油，改善睡眠質素肩頸疲勞舒緩經絡按摩班▸ 針對上班族「電腦肩」問題，教你有效放鬆肌肉的穴位按摩技巧頭痛失眠防脫髮舒壓經絡按摩班▸ 結合香薰油與頭部經絡按摩，緩解偏頭痛",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_154607_81dxDZxS1H_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8282,7 +8442,7 @@
   "summary": "本課程講解精油的治療效果和禁忌，介紹各種精油對身體的影響和調配方法。教授學員調配天然的按摩油及如何使用精華油，去平衡和調理身體，紓緩情緒、壓力、失眠和解決肌肉、關節等痛症。（包括上課材料及1瓶30ml舒緩疲勞按摩油）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_180906_Kurjfal73R_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8321,7 +8481,7 @@
   "summary": "團隊將會在7月25日 (六) 舉行第三次「每月一次 ‧ 細路主場」，希望讓大埔社區有個俾小朋友、家長相見相聚嘅遊樂場~活動內容有 ❶「無譜樂園」邀請智樂（Playright）帶領團隊設置玩得多變、玩得安全嘅社區遊戲，讓小朋友自主地拼砌遊戲物資，變出不同點子，享受遊戲樂趣！；❷「Messy Art Play」(藝術五感探索遊戲) [今個月有新探索元素加入]，結合顏料與不同教具，刺激感官刺激，啟發孩子的想像力，引導孩子走進藝術的世界，讓創作變得自然、有趣，團隊亦會不定期加入新探索元素 ；以及 ❸「 共創風動牆裝置 」誠邀家長以及街坊捐贈鋁罐 (清洗乾淨、不壓",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260721_155859_d0udrZcJXl_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-21",
   "delisted": false
  },
@@ -8362,7 +8522,7 @@
   "summary": "你知道嗎？一條簡單的毛巾也能化身雙節棍！快來參加由香港武術家及雙節棍達人劉萬梁帶領的「毛巾雙節棍」入門班，認識雙節棍的歷史與基礎技巧，並練習把基本動作組合成連貫流暢的套路。僅用日常家居用品，便能喚醒你內在的武術家精神——來一起跟着節奏舒展身心，在汗水淋漓間釋放壓力、揮走負能量！對象：無需經驗，適合任何年齡人士器材：所有器材已備。課後每位參加者均可獲贈雙節棍毛巾乙條。語言：粵語",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260611_142357_kyiFlzyCgb_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8400,7 +8560,7 @@
   "summary": "以永生花點綴日常書桌，親手製作屬於自己的永生花筆筒。工作坊將帶領學員認識花材搭配、色彩設計及簡易固定技巧，輕鬆完成實用又精緻的手作作品，送禮自用皆宜。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_154224_VhyaojBMDO_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8439,7 +8599,7 @@
   "summary": "爵士樂早已超越單一音樂類型。經多年發展，它對流行、搖滾等各種音樂風格，以至不同範疇藝術創作均留下了深遠的影響。在是次「爵士樂導賞及分享會」中，滴音樂創辦人張駿豪 ( Teriver Cheung ) 邀請到唱作人亞水 ( Jan Curious ) ，暢談爵士音樂如何擁抱跨界合作。一位是當代爵士結他手和作曲家，另一位是身兼搖滾樂隊主音和插畫家的創作人，兩位不同背景的音樂人為何會組成跨樂風樂隊？他們當初的合作，又如何促成了更多別開生面的音樂項目？兩位將以自身經歷，分享音樂創作的無限可能。Teriver 和亞水更會聯同本地爵士樂手李梓禾 ( Bowen Li",
   "image": "https://cdn.art-mate.net/uploads/artmate/202605/thumbnail/20260528_214346_xffUZMBKf6_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8477,7 +8637,7 @@
   "summary": "本課程教授深層按摩肩、頸及背部動作，配合按摩油紓緩疲勞及肌肉疼痛。 介紹可應用於按摩紓緩壓力、頭痛和肌肉疼痛的精油配方。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_183052_GC5PT0lwjm_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8515,7 +8675,7 @@
   "summary": "以天然精油為主題，認識芳香療法的基本概念與安全使用方法。 認識前調 中調及後調 ，並了解不同精油的特性、調配原理及日常應用，並親手製作專屬香薰油。課程適合初學者，透過香氣療癒身心，放鬆壓力，感受自然植物帶來的舒緩與平衡。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_154032_ly5qi4Zv4t_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8554,7 +8714,7 @@
   "summary": "香港好有米？！今年 7 月荔枝窩真係「有米」啊！今次邀請大家嚟荔枝窩親手感受呢度嘅米，了解稻米唔同嘅形態。《荔枝窩有米團》唔止係試下做農夫，更係一個帶你搵返「米從何處來」嘅深度體驗：嚐：由 Foo's Cafe 悉心設計嘅特色午餐，主角就係荔枝窩土生土長嘅稻米。 釀：親手學整傳統客家糯米酒。 住：入住揉合傳統同現代設施嘅客家老屋。 看：香港難得一見嘅農耕風景。兩日一夜嘅慢活步調，等你可以喺忙碌嘅生活入面「斷捨離」，回歸最簡單嘅農耕生活。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260626_133832_ZpmClBmKv7_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8592,7 +8752,7 @@
   "summary": "製作專屬香水DIY流程包含聞香、設計前中後調、調配精油與加入酒精，即可完成獨一無二的香水。關鍵在於比例搭配，推薦從柑橘、花香或木質調精油入手，並儲存以穩定香氣。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_154054_PQS1YIJrTU_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8630,7 +8790,7 @@
   "summary": "頭部按摩能夠預防腦部疾病的發生、舒緩疲憊的身心靈，也對頭皮護理有很好的效果。本課程講解精油的治療效果和禁忌，介紹各種精油對身體的影響和調配方法。教授學員如何使用精華油，並指導學生頭部經絡、穴位介紹及疏通經絡穴位按摩方式。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_170004_bACMidNCjR_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8668,7 +8828,7 @@
   "summary": "「頭部刮痧不是保養，是搶救！」 低頭族的鐵頸如何3分鐘鬆開？ 壓力大到頭痛藥越吃越多，記憶力越來越差？ 刮哪裡能讓更年期頭暈「斷電」？ 本課程由25年經驗漢方芳療師獨家設計「頭部養髮頭皮護理舒壓刮痧班」，教授學員如何使用精華油，並指導學生透過太陽穴、風府穴、百會、四神聰等穴位刺激毛囊新生，頭皮氣血疏通，改善氣滯血瘀，緩解脹痛，預防寒氣引發後腦僵痛 。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_102303_ak2kIbfm3U_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8707,8 +8867,47 @@
   "summary": "本課程將詳細講解每種原料的功效與使用方法，並提供實作指導，能輕鬆掌握製作技巧。完成後，還可以帶走自己專屬的潤唇膏，享受天然護唇的樂趣。（包括上課材料及每人/每組家庭製作8枝作品帶走）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_103857_FxBdgQWAyT_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98292",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "HKW | Haus der Kulturen der Welt Talk in Hong Kong",
+  "url": "https://www.art-mate.net/doc/98292",
+  "kind": "活動",
+  "categories": [
+   "講座"
+  ],
+  "tags": [
+   "活動",
+   "免費",
+   "JCCAC"
+  ],
+  "organiser": "Haus der Kulturen der Welt",
+  "venue": "HKW | Haus der Kulturen der Welt Talk in Hong Kong",
+  "region": "香港",
+  "start_date": "2026-07-26",
+  "end_date": "2026-07-26",
+  "date_text": "2026-07-26 ( 3:00 PM ~ 5:30 PM )",
+  "time_text": "3:00 PM ~ 5:30 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "Join us on July 26 from 3:00–5:30 PM for a talk exploring AI, digital ethics, and speculative futures. The talk will explore the socio-political, cognitive, and spiritual dimensions of artificial intelligence and emerging technologies through feminist, speculative, and anti-colon",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260723_150655_vwIXl5s72t_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-07-23",
+  "first_seen": "2026-07-23",
   "delisted": false
  },
  {
@@ -8741,13 +8940,52 @@
   "is_free": false,
   "fee_text": "HKD 880 ( VIP 席門票 )",
   "deposit": "",
-  "apply_url": "https://ticket.art-mate.net/buy_ticket/96928",
+  "apply_url": "",
   "enquiry": "hima.media_culture@outlook.com",
   "summary": "超級戰隊系列第47部作品 《國王戰隊帝王者》，飾演主人公— 基拉·哈斯帝/ 酒井大成7月就要嚟香港同粉絲見面啦，各位子民如果想一睹「邪惡之王」嘅風采，記住搶飛啦！第一場 VIP席/HK$880 （每人限購 4張）-合照 一張-入場特典 一份-握手第一場 A席 /HK$480 （每人限購 4張）-握手-入場特典 一份第二場 VIP席 /HK$880 （每人限購 4張）-私物簽名 一份-入場特典 一份-握手第二場 A席 /HK$480 （每人限購 4張）-握手-入場特典 一份同時購入兩場VIP門票：加贈即影即有合照一張",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260612_182246_aMRTypVIev_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98182",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "Pulima民俗映畫戲放映系列｜天演異夢 ：生態災難影像民族誌二選",
+  "url": "https://www.art-mate.net/doc/98182",
+  "kind": "活動",
+  "categories": [
+   "電影",
+   "放映"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "A Story of Limited",
+  "venue": "Pulima民俗映畫戲放映系列｜天演異夢 ：生態災難影像民族誌二選",
+  "region": "香港",
+  "start_date": "2026-07-26",
+  "end_date": "2026-07-26",
+  "date_text": "2026-07-26 ( 5:00 PM ~ 7:00 PM ) / 2026-07-26 ( 7:15 PM ~ 8:45 PM )",
+  "time_text": "5:00 PM ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "根據《演化論》物兢天擇，適者生存的觀點，人類以近乎支配者般的姿態統治地球，肆意地爭奪並控制自然資源。可是當妄為過後，大自然失衡反噬，在惡果降臨之時「萬物之靈」又是否能夠獨善其身？ 是次Pulima民俗映畫戲放映系列，將以天演異夢 為題，為大家帶來兩部關於生態危機與災難的影像民族誌：《達爾文的夢魘》赤誠卻錐心的警世記錄片神作目擊在非洲最大湖泊，發生的生態災難以精準銳利的訪談從全球化漁獲生產線上的各層人員染上毒癮的街童遭受暴力對待的鶵妓等人的證詞中 剖析拼湊出一幅沒人能獨善其身的煉獄群像《利維坦》哈佛感官民族誌實驗室成名之作以《白鯨記》中艱險的北大西洋海域為",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260723_105129_JccA3WfKtv_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-07-23",
+  "first_seen": "2026-07-23",
   "delisted": false
  },
  {
@@ -8788,7 +9026,7 @@
   "summary": "無伴奏合唱（A Cappella）以純人聲演繹不同風格的歌曲；踢躂舞（Tap Dance）化鞋履為樂器，隨旋律即興發揮。是次演出集結一班參與本屆計劃「深化藝術課程」的校園藝術大使，踏上舞台，展現學習成果，透過歌聲與節拍，帶領觀眾踏上一趟視聽並重的節奏之旅！演出結束後，課程導師藝術團體一舖清唱及STEP OUT Academy將與觀眾分享無伴奏合唱及踢躂舞的奧秘，以及學習與創作歷程的心得。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260626_184618_ackuJKsGpG_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8827,7 +9065,7 @@
   "summary": "「在快節奏的城中生活裡，我們都需要一盞溫暖的燈，和一個能讓心靜下來的角落。」結合日本傳統「折染」工藝與「友禪染」印印技巧，這一次，我們邀請你親手撫摸溫潤的日本和紙，在色彩緩緩暈開的過程中，感受時間慢下來的溫柔。這不單是一門手作課，更是一份送給自己、家人，或是家中毛孩的身心療癒禮物。藝術亮點1. 日本「折染」：與色彩的溫柔相遇在導師帶領下，你將學習日本傳統折染（折り染め/Orizome）技巧。將纖細的和紙疊摺，浸入染料。看著色彩在纖維間自然擴散、漸變，每一次打開，都是一幅無法被複製的幾何美感圖案。2.「友禪染」印染：自選與創作專屬光影小夜燈上的貓咪與花朵剪",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260722_111515_WmIgVaflYv_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-22",
   "delisted": false
  },
@@ -8865,7 +9103,7 @@
   "summary": "本工作坊教授夏威夷小吉他的基本彈奏技巧與節奏，適合初學者。透過輕鬆互動教學，讓學員在愉快氛圍中學會簡單歌曲，體驗音樂樂趣與演奏成就感。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_154535_StMlFmiSUV_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8903,7 +9141,7 @@
   "summary": "你是不是也受夠了化學護膚品帶來的刺激？想找真正安心的天然配方？「天然植物防敏護膚DIY證書課程」 4大實用工作坊一次學齊，為你打造天然的防敏護膚方案！課程包含純天然鼻通棒工作坊：緩解鼻敏感、鼻塞不適濕疹霜DIY工作坊：舒緩乾癢、修復脆弱肌膚甜橙修護唇膏工作坊：滋潤雙唇，適合敏感唇部變色潤唇膏工作坊：好玩又護唇的天然變色配方",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_155453_l9hOiaeiVX_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8941,7 +9179,7 @@
   "summary": "本課程教授以全天然材料，紫草膏又名紫雲膏，具有消炎殺菌，止痛鎮定的功效，同時對輕度燙傷、切傷、擦傷、蚊蟲咬傷、瘀青、青春痘等用來做藥膏。（包括上課材料及2件5g作品）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_094640_RYy85oYlul_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -8979,7 +9217,7 @@
   "summary": "本課程教授通過純天然配方，自然粉嫩，不含鉛汞色素。唇部回復如櫻花般的粉紅色澤，輕輕一塗，就算用餐後也可持久天然潤紅、天然健康，且不沾杯，不掉色，還可用在其他需要潤紅的部位。成品是無色的，塗抹到唇部後，慢慢呈現紅色。（包括上課材料及帶走2枝變色潤唇膏）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_101647_V8ZUcYAQCv_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9017,7 +9255,7 @@
   "summary": "《涓滴》由香港劇場創作人陳冠而策劃，旨在梳理一群生於八十年代、活躍於香港劇場逾十年的「中生代」創作者之實踐軌跡。計劃聚焦方祺端、胡境陽、林俊浩、天台製作、黃呈欣、黃家駒及陳冠而七組香港創作單位。這群「同代人」大致於 2007 至 2010 年間投身劇場，歷經十餘年耕耘，成為風格成熟的劇場創作者。透過深度訪談、訪問影像和創作生涯相關資料整理，聚焦於其藝術技法、心法與美學觀。「涓滴」不單聚焦個別製作，更希望拉闊視角，看見創作者的生命歷程如何與當代香港的文化土壤、制度及社會氣候相互折射。記錄個體如何由水滴匯聚成川。透過梳理來時路，計劃期盼能為同行者及後來者提供",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260702_132134_eZJTJY1wsv_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9055,7 +9293,7 @@
   "summary": "大師開班喇！今次演戲家族好榮幸請到著名編劇張飛帆親臨主持大師班，同大家分享創作心得！張飛帆曾為演戲家族多個經典劇目擔任編劇或改編，包括：《一屋寶貝》、《一水南天》等，作品屢屢打動觀眾，締造難忘嘅觀劇體驗！今次難得「大師級人馬」開班，同大家分享創作經典劇目嘅經驗同寶貴心得，機會難得，名額有限，真係報名要快手！日期：2026年7月26日時間：11:00am場地：荃灣大會堂文娛廳講者：張飛帆名額有限，先到先得。如遇特殊情況，主辦機構保留更換活動/ 導師的權利。查詢：af1941.enquiry@gmail.com",
   "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260702_180133_rOIM9q5lON_p_300_0.png",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9094,7 +9332,7 @@
   "summary": "版畫雕刻及托印工作坊，透過簡單易學的雕刻與拓印步驟，帶領參加者認識版畫的基本原理與創作樂趣。工作坊適合初學者，完成後可親手製作專屬作品3張， 再選一張最精美的送贈畫框上架，體驗傳統工藝與藝術表達的結合。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_155111_eVC1y5Z6jz_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9132,7 +9370,7 @@
   "summary": "本課程會教授以全天然材料製作潤唇膏，滋潤時間可以持續8小時，有效幫助改善唇紋、柔潤舒緩、水潤保濕、植物滋養、深層修護、預防乾裂。絕無加任何化學添加物或防腐劑，可完全放心使用。（製作2支潤唇膏）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_101051_Ofr5uQS3kI_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9170,7 +9408,7 @@
   "summary": "空靈鼓工作坊讓你在短短的時間內掌握空靈鼓的基本技巧，並通過即興演奏體驗音樂帶來放鬆的效果。參加者無需音樂背景，學員將學會如何通過簡單的打擊創作美妙的旋律，並通過音樂釋放壓力，達到內心的平靜與專注。這是一個完美的減壓方式，無論是個人還是團隊活動，皆能享受其中。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_154408_KF5MxTISJj_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9208,7 +9446,7 @@
   "summary": "本課程講解每種精油的特性和使用方法，學習如何精確調配精油比例，以達到最佳效果。最後親手制作屬於自己的鼻敏感鼻通，並獲得專業的使用指導。通過自己的雙手，為鼻子打造一道天然的保護屏障。不要讓鼻敏感成為您生活的困擾，為自己和家人打造一份專屬的健康呵護！（包括上課材料及1枝鼻敏感鼻通）",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_210622_aymC2ibTUm_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9246,7 +9484,7 @@
   "summary": "《非遺螺鈿花開鳳蝶來》是一個結合傳統螺鈿工藝與花藝美感的手作工作坊，參加者可運用天然貝殼、乾花及永生花，創作出閃耀細緻、充滿東方雅韻的個人作品。工作坊適合初學者，透過簡易步驟體驗非遺之美，感受自然材質與手作藝術交織的獨特魅力。",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260615_154921_2gij1jARZ0_p_300_0.jpeg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9284,7 +9522,7 @@
   "summary": "這堂課解決面部三大難題：1. 如何快速拯救你的熊貓眼?三種實用方法，從根源擊退黑眼圈，讓你從內美到外2. 高效對付出賣你年齡的天敵——乾性皮膚二十年臨床經驗，運用來自大自然的禮物顛覆你對皮膚保養的認知：原來可以這樣簡單 3. 每天五分鐘，遠離「三八線」，年輕十歲的秘密兩套絕密面部提升方案。自助——健康美麗；助人——財富倍增。【課程內容】面部刮痧的理論面部刮痧的手法【刮痧好處】刮痧是傳統自然療法，主要教授刮痧經絡療法用於面部的技巧，如何改善臟腑的健康及提升美容保健之效面部刮痧主要是疏通面部的經絡，臉上長痘長斑主要是氣血不通暢氣滯血瘀所引起。面部刮痧可使皮脂",
   "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260624_151210_RKEVDTeSQF_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -9396,7 +9634,7 @@
   "summary": "行業範疇：印刷及出版",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9434,7 +9672,7 @@
   "summary": "行業範疇：印刷及出版",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9472,7 +9710,7 @@
   "summary": "行業範疇：機電",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9512,7 +9750,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9550,7 +9788,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9588,7 +9826,7 @@
   "summary": "行業範疇：商業",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9664,7 +9902,7 @@
   "summary": "行業範疇：資訊科技應用",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-14",
   "delisted": false
  },
@@ -9702,7 +9940,7 @@
   "summary": "行業範疇：資訊及通訊科技",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9740,7 +9978,7 @@
   "summary": "行業範疇：資訊及通訊科技",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9778,7 +10016,7 @@
   "summary": "行業範疇：資訊及通訊科技",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9816,7 +10054,7 @@
   "summary": "行業範疇：設計",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9854,7 +10092,7 @@
   "summary": "行業範疇：設計",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9889,7 +10127,7 @@
   "summary": "",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9924,7 +10162,7 @@
   "summary": "",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9962,7 +10200,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10000,7 +10238,7 @@
   "summary": "行業範疇：飲食",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10038,7 +10276,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10114,7 +10352,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10152,7 +10390,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10190,7 +10428,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10228,7 +10466,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10266,7 +10504,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10304,7 +10542,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10342,7 +10580,7 @@
   "summary": "行業範疇：中醫保健",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-19",
   "delisted": false
  },
@@ -10383,7 +10621,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10418,7 +10656,7 @@
   "summary": "",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10457,7 +10695,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-07-22",
+  "scraped_at": "2026-07-23",
   "first_seen": "2026-07-11",
   "delisted": false
  }
