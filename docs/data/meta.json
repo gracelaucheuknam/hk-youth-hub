@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-05T23:02:45Z",
- "total": 373,
- "upcoming": 90,
+ "generated_at": "2026-08-07T01:36:00Z",
+ "total": 371,
+ "upcoming": 80,
  "sources": {
   "youth_gov": "0（保留舊資料，請檢查 selector）",
-  "artmate": 176,
+  "artmate": 175,
   "eventbrite": "0（保留舊資料，請檢查 selector）",
-  "erb": 20,
+  "erb": "0（保留舊資料，請檢查 selector）",
   "estart": "0（保留舊資料，請檢查 selector）",
   "manual": 4
  },
