@@ -653,6 +653,44 @@
   "delisted": true
  },
  {
+  "id": "artmate:95794",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "我要演獨白培訓計劃：「我的獨白表演課」＋「大獨白 Battle 之夜」",
+  "url": "https://www.art-mate.net/doc/95794",
+  "kind": "活動",
+  "categories": [
+   "劇場",
+   "工作坊"
+  ],
+  "tags": [
+   "活動"
+  ],
+  "organiser": "光合作用戲劇工作室",
+  "venue": "我要演獨白培訓計劃：「我的獨白表演課」＋「大獨白 Battle 之夜」",
+  "region": "香港",
+  "start_date": "2026-07-11",
+  "end_date": "2026-11-28",
+  "date_text": "2026-07-11 , 07-18 , 07-25 ( 7:30 PM ~ 10:30 PM ) / 2026-08-01 , 08-08 , 08-15 , 08-22 , 08-29 ( 7:30 PM ~ 10:30 PM )",
+  "time_text": "7:30 PM ~ 10:30 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 4000",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "光合作用戲劇工作室將於今年七月至十一月期間，舉行「我要演獨白培訓計劃」，內容包括【我的獨白表演課】與【大獨白Battle之夜】兩大階段。第一階段【我的獨白表演課】，包括獨白表演訓練及指定獨白的閉門或半公開中期展演，循序漸進掌握獨白的演繹技巧，及累積於人前演出獨白的經驗。第二階段【大獨白Battle之夜】，學員將事先與導師進行一對一排練，最後以自選獨白進行公開對抗賽，激發學員在觀眾的注視下，結合所學並發揮潛能。*「我要演獨白培訓計劃」獲得StageTV 揀選為「場地搖籃計劃」的項目，整個計劃將於 StageTV 的場地進行。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260601_182841_SATaulmoaV_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:97344",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -2779,6 +2817,45 @@
   "delisted": true
  },
  {
+  "id": "artmate:99169",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「Deep in the Heart of Love」Felix SC Wong 個展",
+  "url": "https://www.art-mate.net/doc/99169",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "四方街畫廊",
+  "venue": "「Deep in the Heart of Love」Felix SC Wong 個展",
+  "region": "香港",
+  "start_date": "2026-07-31",
+  "end_date": "2026-07-31",
+  "date_text": "2026-07-31 ~ 09-05",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@squarestreeetgallery.com",
+  "summary": "We invite you to step into 'Deep in the Heart of Love', the culmination of Felix SC Wong's residency with Sqaure Street Gallery.Navigating the space between presence and loss, the exhibition leads us into a journey through the artist's family home, revisiting the sites of memory ",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260806_162534_rF40EvMXBp_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:98787",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -3015,6 +3092,45 @@
   "scraped_at": "2026-07-31",
   "first_seen": "2026-07-26",
   "delisted": true
+ },
+ {
+  "id": "artmate:98476",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "《 藍染 》紮染輕體驗 ( 8 - 9 月 )",
+  "url": "https://www.art-mate.net/doc/98476",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "工作坊"
+  ],
+  "tags": [
+   "手作DIY",
+   "活動"
+  ],
+  "organiser": "染樂工房",
+  "venue": "《 藍染 》紮染輕體驗 ( 8 - 9 月 )",
+  "region": "香港",
+  "start_date": "2026-08-01",
+  "end_date": "2026-09-27",
+  "date_text": "2026-08-01 ( 11:00 AM ~ 1:00 PM ) / 2026-08-15 ( 3:30 PM ~ 5:30 PM )",
+  "time_text": "11:00 AM ~ 1:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": 10,
+  "is_free": false,
+  "fee_text": "HKD 330",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "▶︎ 透過 2 小時的紮染體驗，你會...❖ 認識 染料的製作❖ 導師示範及教授多種扎染技巧❖ 體驗染色樂趣❖ 參與工藝製作，讓創意能量碰撞，綻放出屬於你的獨一無二作品｜時間｜ 120分鐘｜人數｜ 2 至 15人 （ 額滿即止 ）｜對象｜ 6歲+ （ 10歲或以下小童可以由一位家長陪同上課 ，共做一份素材，不另收費）｜地點｜ JCCAC 地下 L0-04 染樂工房（石硤尾 地鐵站C出口步行5分鐘）｜素材｜ 1份 空白素材/位（ 限時素材優惠： 可選 50x50厘米風呂敷/A3手提袋/ 漁夫帽/ 成人或小童T-Shirt /現場升級其他素材）｜色選｜ 單色",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260728_105627_RyXjH9AadV_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
  },
  {
   "id": "artmate:97950",
@@ -3293,7 +3409,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-07-31",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97312",
@@ -3642,7 +3758,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-07-31",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97064",
@@ -4616,6 +4732,44 @@
   "scraped_at": "2026-08-21",
   "first_seen": "2026-08-09",
   "delisted": true
+ },
+ {
+  "id": "artmate:99217",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "中國茶品鑒及沖泡入門班",
+  "url": "https://www.art-mate.net/doc/99217",
+  "kind": "活動",
+  "categories": [
+   "工作坊"
+  ],
+  "tags": [
+   "文化",
+   "活動"
+  ],
+  "organiser": "六鄉山莊",
+  "venue": "中國茶品鑒及沖泡入門班",
+  "region": "香港",
+  "start_date": "2026-08-04",
+  "end_date": "2026-08-04",
+  "date_text": "2026-08-04 ~ 10-09 ( 7:00 PM ~ 9:30 PM )",
+  "time_text": "7:00 PM ~ 9:30 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 2520",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "更多詳情：https://www.facebook.com/lukheungcommons",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260807_163021_s6uN8joJdO_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
  },
  {
   "id": "artmate:97178",
@@ -5828,7 +5982,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-15",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:98472",
@@ -5906,7 +6060,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-02",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99068",
@@ -5945,7 +6099,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-15",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:98141",
@@ -7123,6 +7277,45 @@
   "delisted": true
  },
  {
+  "id": "artmate:99443",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "BIGBANG出道20週年展覽",
+  "url": "https://www.art-mate.net/doc/99443",
+  "kind": "活動",
+  "categories": [
+   "展覽"
+  ],
+  "tags": [
+   "其他",
+   "活動",
+   "免費"
+  ],
+  "organiser": "BIGBANG20.hk",
+  "venue": "BIGBANG出道20週年展覽",
+  "region": "香港",
+  "start_date": "2026-08-11",
+  "end_date": "2026-09-19",
+  "date_text": "2026-08-11 ~ 09-19 ( 10:00 AM ~ 6:00 PM ) / 2026-09-19 ( 10:00 AM ~ 3:00 PM )",
+  "time_text": "10:00 AM ~ 6:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "轉眼間，BIGBANG已經陪伴了VIP二十年。這次舉辦 𝘉𝘐𝘎𝘉𝘈𝘕𝘎 𝟤𝟢𝘵𝘩 𝘈𝘯𝘯𝘪𝘷𝘦𝘳𝘴𝘢𝘳𝘺 𝘍𝘢𝘯𝘢𝘳𝘵 𝘌𝘹𝘩𝘪𝘣𝘪𝘵𝘪𝘰𝘯，集結了VIP 為成員精心創作的fanart，並於現場設有留言版和創作區，讓大家一起重溫屬於我們的回憶，及抒發對BIGBANG的感受。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260818_112247_YBA8RJOib0_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:97605",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -7353,6 +7546,45 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-09",
+  "delisted": false
+ },
+ {
+  "id": "artmate:99767",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「生命中之輕」群展",
+  "url": "https://www.art-mate.net/doc/99767",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "Contemporary by Angela Li",
+  "venue": "「生命中之輕」群展",
+  "region": "香港",
+  "start_date": "2026-08-13",
+  "end_date": "2026-08-13",
+  "date_text": "2026-08-13 ~ 09-12",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "藝術家往往用心體會生活中的微小事物，在細瑣之處發掘觸動心緒的創作靈感。由策展人梁兆基策劃的「生命中之輕」展覽邀請了本港三間院校八位應屆畢業的藝術系學生，展出他們以獨特視角探討人生的作品。參展藝術家包括周思伶、趙嘉雯、鍾卓穎、香樂平、劉霆豐、梁樂怡、安紫彤及謝沅珊，透過看似輕輕的物像，表達沈甸甸的反思。 浸會大學藝術學院周思伶的靜物油畫刻劃承載著時間痕跡的日常物，透過互相排列的關係讓觀者感受背後的故事；同校謝沅珊的油畫《沖水之前》以模糊抖顫的浴室水喉畫面表達主角悲傷哭泣的主觀視線，《過載 I》更以震動至出現重影的升降機內部呈現接近崩潰的心理狀態。 有些藝術",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260828_141808_trfAR8JRd3_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
   "delisted": false
  },
  {
@@ -8406,7 +8638,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-22",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99168",
@@ -9223,7 +9455,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-16",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:98179",
@@ -9502,6 +9734,46 @@
   "delisted": true
  },
  {
+  "id": "artmate:99777",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "Louis Wong 10th Anniversary Exhibition",
+  "url": "https://www.art-mate.net/doc/99777",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費",
+   "ACG"
+  ],
+  "organiser": "Quiet Gallery",
+  "venue": "Louis Wong 10th Anniversary Exhibition",
+  "region": "香港",
+  "start_date": "2026-08-21",
+  "end_date": "2026-08-21",
+  "date_text": "2026-08-21 ~ 09-06",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "香港藝術家及玩具設計師 Louis Wong 自 2015 年創立品牌 PLAY STUDIO 至今正式邁入第十個年頭。為紀念這一重要里程碑，Louis 將於 Quiet Gallery 舉辦十週年紀念特展，全面回顧其出道首作「首獸」、經典代表作「鬼忍」以及 「Oniki」 與 「Oniko」 的演變軌跡，並展出一系列全新畫作。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260828_152236_Z7RvUZqbrF_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:97755",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -9613,6 +9885,45 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-22",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98802",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「邊界感」顧躍個展",
+  "url": "https://www.art-mate.net/doc/98802",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "天趣當代藝術",
+  "venue": "「邊界感」顧躍個展",
+  "region": "香港",
+  "start_date": "2026-08-21",
+  "end_date": "2026-08-21",
+  "date_text": "2026-08-21 ~ 09-19 ( 10:00 AM ~ 7:00 PM ) / 2026-08-21 ( 5:00 PM ~ 8:00 PM )",
+  "time_text": "10:00 AM ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "天趣當代藝術將於2026年8月21日至9月19日呈現中國著名藝術家、學者顧躍在香港的首次個展「邊界感」。顧躍數十年的創作實踐與生命軌跡，始終穿行在多重邊界的交匯處：從國家博物館的體制內研究，到澳門科技大學的跨語境教學與創作，從內地文化場域到港澳中西交匯的邊緣空間，肉身的遷徙與身份的轉譯，使「邊界感」從生存體驗成為顧躍的創作母題。作為顧躍的首次香港個展，「邊界感」以七大單元呈現藝術家近二十年來的核心創作，涵蓋雕塑、裝置與繪畫等多元媒介。《拉奧孔》裝置以希臘悲劇的神話對接東方佛頭的慈悲意象，《讀屏》《遊戲空間》系列直面屏幕生存的日常性，《解構善本》系列對古代",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260803_132904_OkhX6L0KZq_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
   "delisted": false
  },
  {
@@ -9960,6 +10271,46 @@
   "scraped_at": "2026-08-21",
   "first_seen": "2026-08-16",
   "delisted": true
+ },
+ {
+  "id": "artmate:99678",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「合歡樹下」陶瓷作品展",
+  "url": "https://www.art-mate.net/doc/99678",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "多媒體",
+   "活動",
+   "免費"
+  ],
+  "organiser": "動透",
+  "venue": "「合歡樹下」陶瓷作品展",
+  "region": "香港",
+  "start_date": "2026-08-22",
+  "end_date": "2026-08-22",
+  "date_text": "2026-08-22 ~ 09-13 ( 12:00 NN ~ 7:00 PM )",
+  "time_text": "12:00 NN ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "本期展覽展出作品涵蓋傳統柴燒、當代造型的陶瓷與生活美學器物。邀請您走進火與泥土微觀世界裡，感受無盡能量與溫潤美感。主辦人Yann邀請來自世界各地的陶藝家，與在地居民一同走入泰國清道的溪谷與田野，採集當地富含礦物質的天然陶泥。您將看見原泥最純粹的紋理、柴燒落灰交織出的自然釉色。展品不僅凝聚了獨特的文化脈絡與土質特性，更揉合了當地的自然元素，作品捕捉泥土在不同溫度與釉料催化下的多變風貌。以及跨越國界與文化的大地共鳴。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260825_165128_6NUwUbI3VI_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
  },
  {
   "id": "artmate:99071",
@@ -10432,7 +10783,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-16",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99482",
@@ -10982,6 +11333,45 @@
   "delisted": true
  },
  {
+  "id": "artmate:98857",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "The Soul of Art 靈魂創作旅程",
+  "url": "https://www.art-mate.net/doc/98857",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "工作坊"
+  ],
+  "tags": [
+   "活動",
+   "身心靈"
+  ],
+  "organiser": "The Soul of Art",
+  "venue": "The Soul of Art 靈魂創作旅程",
+  "region": "香港",
+  "start_date": "2026-08-25",
+  "end_date": "2026-09-01",
+  "date_text": "2026-08-25 ( 7:30 PM ~ 9:30 PM ) / 2026-09-01 , 09-08 , 09-15 ( 7:30 PM ~ 9:30 PM )",
+  "time_text": "7:30 PM ~ 9:30 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 1350",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "生活節奏愈來愈快，我們每天忙著工作、照顧別人、處理無數資訊，卻很少停下來，好好感受自己。很多時候，我們不是不懂創作，而是忘記了如何放鬆、如何表達、如何與自己連結。經過三年走訪拉丁美洲不同國家，參與藝術駐村、跨界合作及身體研究，Yin Lau（aka Winston）終於回到香港，首次於 The Soul of Art Studio 推出全新的 The Soul of Art Series。這不是一般的藝術課，也不是學習畫得更好的課程。而是一個讓自己慢下來、重新呼吸、探索內心、自由表達的安全空間。無論你從未畫過畫，還是已經有藝術經驗，只需要帶著一點好奇心，",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260803_160412_c6xRUWW2OH_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:98180",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -11058,6 +11448,87 @@
   "delisted": true
  },
  {
+  "id": "artmate:99208",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「域光流影」張影薇個展",
+  "url": "https://www.art-mate.net/doc/99208",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費",
+   "攝影"
+  ],
+  "organiser": "本陶藝社",
+  "venue": "「域光流影」張影薇個展",
+  "region": "香港",
+  "start_date": "2026-08-26",
+  "end_date": "2026-08-26",
+  "date_text": "2026-08-26 ~ 09-06 ( 1:30 PM ~ 7:00 PM )",
+  "time_text": "1:30 PM ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "水的流動刻錄着時間的流逝，是次展覽以水為念，將香港「前深水埗配水庫」的紀實攝影與暗房中的抽象顯影形成對比。一組照片記錄着水的被限制，另一組影像闡釋水的流動性。百年水庫完成了它的歷史任務，與時間共存。突如其來的侵擾卻劃破其寧謐。藝術家以紀實與蒙太奇手法拍攝其拱門，殘礫和刮痕，在保存和破壞間令人感到惴惴不安。在暗房的顯影過程中，藝術家以光為筆，記錄着漣漪和浮花。這些剎那的捕捉，蘊藏不可控和不確定性，是刻意與偶然之間的對話。分明的水紋和蕩漾的餘韻，讓人感受到水既脆弱亦蘊藏韌性。在限制和流動之間，藝術家抓緊消失中的記憶，並默默探索未知的維度。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260807_153247_Va257TJEwu_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
+  "id": "artmate:99756",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「接住自己：一場探索自我的文字旅程」展覽",
+  "url": "https://www.art-mate.net/doc/99756",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "多媒體",
+   "活動",
+   "免費",
+   "身心靈"
+  ],
+  "organiser": "ztoryteller",
+  "venue": "「接住自己：一場探索自我的文字旅程」展覽",
+  "region": "香港",
+  "start_date": "2026-08-26",
+  "end_date": "2026-08-26",
+  "date_text": "2026-08-26 ~ 09-13 ( 9:00 AM ~ 6:00 PM )",
+  "time_text": "9:00 AM ~ 6:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "每個人心裡，都住著一間房子。 它由回憶、信念、情緒與想像，一點一滴建構而成。每一道門、每一個房間，都收藏著一部分的自己，也藏著那些曾經支撐我們、保護我們的力量。若你跟隨直覺，透過文字、想像與選擇，一步步探索心房的不同空間，或許會癒見你自己都未曾察覺，早已擁有的勇氣。一段由專業催眠治療師錄製的聲音導航，也將陪你在文字與想像之間，慢慢回到自己。",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260828_113636_UM3AZgHCeW_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:96858",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -11132,6 +11603,85 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-25",
+  "delisted": false
+ },
+ {
+  "id": "artmate:94897",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「霓裳越千年 — 隋唐服飾與現代設計」展覽【中華文化節2026】",
+  "url": "https://www.art-mate.net/doc/94897",
+  "kind": "活動",
+  "categories": [
+   "展覽"
+  ],
+  "tags": [
+   "設計",
+   "文化",
+   "活動",
+   "免費"
+  ],
+  "organiser": "中國文學藝術界聯合會香港會員總會",
+  "venue": "「霓裳越千年 — 隋唐服飾與現代設計」展覽【中華文化節2026】",
+  "region": "香港",
+  "start_date": "2026-08-27",
+  "end_date": "2026-08-28",
+  "date_text": "2026-08-27 ( 3:00 PM ~ 8:00 PM ) / 2026-08-28 ~ 09-06 ( 10:00 AM ~ 8:00 PM )",
+  "time_text": "3:00 PM ~ 8:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "隋唐文化鼎盛，體現中華文化兼收並蓄的美學精神，不斷啟發當代創作。是次展覽以隋唐服飾文化為主軸，融合傳統元素與現代設計，通過復刻隋唐古服飾、當代時裝設計師的跨界碰撞，及隋唐文化數碼化體驗三大主題，配合衍生文創產品與延伸活動，呈現隋唐美學在當代設計語境中的創新表達。---------------------延伸活動詳情：對談會（共1場）：2026年8月29日（星期六）| 3:00pm-4:00pm工作坊（共4場）：2026年8月29日（星期六）| 4:00pm-5:00pm2026年8月30日（星期日）| 4:00pm-5:00pm2026年9月5日（星期六",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260414_133108_mRHvVsjEiC_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
+  "id": "artmate:98887",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "呼吸・感受・表達 - 創作旅程",
+  "url": "https://www.art-mate.net/doc/98887",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "工作坊"
+  ],
+  "tags": [
+   "活動",
+   "身心靈"
+  ],
+  "organiser": "The Soul of Art",
+  "venue": "呼吸・感受・表達 - 創作旅程",
+  "region": "香港",
+  "start_date": "2026-08-27",
+  "end_date": "2026-09-03",
+  "date_text": "2026-08-27 ( 1:00 PM ~ 3:00 PM ) / 2026-09-03 , 09-10 , 09-17 ( 1:00 PM ~ 3:00 PM )",
+  "time_text": "1:00 PM ~ 3:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 1350",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "生活節奏愈來愈快，我們每天忙著工作、照顧別人、處理無數資訊，卻很少停下來，好好感受自己。很多時候，我們不是不懂創作，而是忘記了如何放鬆、如何表達、如何與自己連結。經過三年走訪拉丁美洲不同國家，參與藝術駐村、跨界合作及身體研究，Yin Lau（aka Winston）終於回到香港，首次於 The Soul of Art Studio 推出全新的 The Soul of Art Series。這不是一般的藝術課，也不是學習畫得更好的課程。而是一個讓自己慢下來、重新呼吸、探索內心、自由表達的安全空間。無論你從未畫過畫，還是已經有藝術經驗，只需要帶著一點好奇心，",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260803_161052_C8m0s8EHnZ_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
   "delisted": false
  },
  {
@@ -11215,6 +11765,44 @@
   "delisted": true
  },
  {
+  "id": "artmate:99438",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "RE-LOVE 綠續生活節 「復古時光機」",
+  "url": "https://www.art-mate.net/doc/99438",
+  "kind": "活動",
+  "categories": [
+   "文娛消閒"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "南豐紗廠",
+  "venue": "RE-LOVE 綠續生活節 「復古時光機」",
+  "region": "香港",
+  "start_date": "2026-08-28",
+  "end_date": "2026-08-28",
+  "date_text": "2026-08-28 ~ 08-30 , 09-04 ~ 09-06",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "南豐紗廠首個以「Upcycling」及循環生活為主題的企劃—RE-LOVE 綠續生活節盛大登場！一連五個週末圍繞「永續童樂園」、「古著文化祭」及「復古時光機」三大主題，透過二手市集與多元化互動體驗，讓大眾重新發現舊物價值，將永續生活融入日常。無論是親子家庭、復古時尚愛好者，還是熱衷循環再造的環保生活家，都能在RE-LOVE 綠續生活節找到屬於自己的「綠續靈感」，將永續理念融入日常生活，在衣食住行各個層面實踐Recycle、Reuse、Redesign的RE-LOVE生活態度，為環保永續注入風格和創意！第四至五週（8月28-30 及9月4-6日）「復古時光",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260818_110145_H0Ys73tf9B_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
   "id": "artmate:97663",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -11287,7 +11875,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99330",
@@ -11326,7 +11914,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99085",
@@ -11442,6 +12030,86 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
+  "delisted": true
+ },
+ {
+  "id": "artmate:99427",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「二度刺秦宇宙」利志達個人畫展",
+  "url": "https://www.art-mate.net/doc/99427",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費",
+   "ACG"
+  ],
+  "organiser": "陋室五月小風景",
+  "venue": "「二度刺秦宇宙」利志達個人畫展",
+  "region": "香港",
+  "start_date": "2026-08-29",
+  "end_date": "2026-08-29",
+  "date_text": "2026-08-29 ~ 09-13",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "《二度刺秦宇宙》以利志達長期發展的《刺秦》系列為核心，延伸其對歷史敘事、人物關係與視覺媒介的持續研究。作品取材自「荊軻刺秦」的歷史典故，但並非對既有歷史文本的再現，而是以歷史人物與事件作為敘事基礎，重新建構一套結合歷史、神話、科幻與哲學思辨的虛構世界。在《刺秦》的敘事架構中，荊軻在此非唯一的敘事中心。白牙、邪五、方士、徐福，以及秦國第一劍士向陽等角色，均具有各自的身世、立場與行動邏輯。利志達透過多重人物視角與交錯的時間關係，將單一歷史事件轉化為具有多重敘事線索的世界觀，使人物的選擇、權力關係與時代背景成為作品的重要構成。此一創作方法亦延伸至利志達的視覺語",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260817_171511_yU9ZBB94Nk_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
+  "delisted": false
+ },
+ {
+  "id": "artmate:99339",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「凝視那些瞬間」香港藝術家 Davy Kit 微型藝術個展",
+  "url": "https://www.art-mate.net/doc/99339",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "文化",
+   "活動",
+   "免費"
+  ],
+  "organiser": "UBU DECO Gallery",
+  "venue": "「凝視那些瞬間」香港藝術家 Davy Kit 微型藝術個展",
+  "region": "香港",
+  "start_date": "2026-08-29",
+  "end_date": "2026-08-29",
+  "date_text": "2026-08-29 ~ 09-18 ( 11:00 AM ~ 6:00 PM )",
+  "time_text": "11:00 AM ~ 6:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@ubudeco.com",
+  "summary": "《凝視那些瞬間 Gazing Upon the Moments》延續藝術家對記憶與成長的關注，並特別聚焦他對 90 年代香港童年生活的回望。新作融入多種塑造他成長經驗的流行文化元素，包括電子遊戲、兒時玩具，以及童年時反覆觀看、至今仍深深觸動他的電影與動畫角色。展覽並非單純帶觀眾懷愐過去，而是帶出，成長從來不代表要告別曾經熱愛的一切；那些故事、角色與回憶，早已成為我們的一部分，並將繼續陪伴我們，走向未來。展覽將展出十件精緻微型作品，其中包括一組以經典動畫主題為靈感的系列創作。除了標誌性的微型作品外，Davy 亦將首次在此展覽中帶來大尺寸的新作，形成宏觀與微",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260813_134409_OmZ2CR1u8G_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
   "delisted": false
  },
  {
@@ -11482,6 +12150,45 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
+  "delisted": true
+ },
+ {
+  "id": "artmate:98895",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "內在風景 - 創作旅程",
+  "url": "https://www.art-mate.net/doc/98895",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "工作坊"
+  ],
+  "tags": [
+   "活動",
+   "身心靈"
+  ],
+  "organiser": "The Soul of Art",
+  "venue": "內在風景 - 創作旅程",
+  "region": "香港",
+  "start_date": "2026-08-29",
+  "end_date": "2026-09-05",
+  "date_text": "2026-08-29 ( 6:00 PM ~ 8:00 PM ) / 2026-09-05 , 09-12 , 09-19 ( 6:00 PM ~ 8:00 PM )",
+  "time_text": "6:00 PM ~ 8:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 1350",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "生活節奏愈來愈快，我們每天忙著工作、照顧別人、處理無數資訊，卻很少停下來，好好感受自己。很多時候，我們不是不懂創作，而是忘記了如何放鬆、如何表達、如何與自己連結。經過三年走訪拉丁美洲不同國家，參與藝術駐村、跨界合作及身體研究，Yin Lau（aka Winston）終於回到香港，首次於 The Soul of Art Studio 推出全新的 The Soul of Art Series。這不是一般的藝術課，也不是學習畫得更好的課程。而是一個讓自己慢下來、重新呼吸、探索內心、自由表達的安全空間。無論你從未畫過畫，還是已經有藝術經驗，只需要帶著一點好奇心，",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260803_161752_6CV0BT3ois_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-08-29",
+  "first_seen": "2026-08-29",
   "delisted": false
  },
  {
@@ -11521,7 +12228,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97664",
@@ -11560,7 +12267,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97669",
@@ -11599,7 +12306,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:97667",
@@ -11638,7 +12345,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:96739",
@@ -11717,7 +12424,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-24",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99440",
@@ -11756,7 +12463,7 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-23",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99395",
