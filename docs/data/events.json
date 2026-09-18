@@ -154,45 +154,6 @@
   "delisted": false
  },
  {
-  "id": "artmate:94444",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "占星BB班 - Astrology 101 – NCGR國際體系占星基礎課程",
-  "url": "https://www.art-mate.net/doc/94444",
-  "kind": "活動",
-  "categories": [
-   "工作坊"
-  ],
-  "tags": [
-   "文化",
-   "活動",
-   "身心靈"
-  ],
-  "organiser": "星緣 La Maison d'etoile",
-  "venue": "占星BB班 - Astrology 101 – NCGR國際體系占星基礎課程",
-  "region": "香港",
-  "start_date": "2026-04-22",
-  "end_date": "2026-08-18",
-  "date_text": "2026-08-18 , 09-22 ( 7:30 PM ~ 10:30 PM ) / 2026-04-22 , 05-07 , 06-10 , 06-25 , 07-16 ( 7:30 PM ~ 10:30 PM )",
-  "time_text": "7:30 PM ~ 10:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 222",
-  "deposit": "",
-  "apply_url": "https://www.art-mate.net/buy_ticket/94444",
-  "enquiry": "lamaisondetoile@gmail.com",
-  "summary": "【專業占星入門】Astrology 101 – NCGR國際體系占星基礎課程想認真學占星？從零開始，系統建立千年智慧的完整框架！這不是隨便玩玩的星座分享，而是美國NCGR（National Council for Geocentric Research）認證大綱的正統入門課程。用3小時打好最穩固的基礎，為你未來的專業占星之路鋪路。課程核心價值：• 完整、系統、非碎片化的占星知識架構• 遵循國際專業認證標準（NCGR Level 1基礎大綱）• 小班實戰演練 + 真實案例解析• 清晰的進階藍圖：完成後可直接銜接宮位、行星、相位、預測技巧等進階課程• 適合想",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202606/thumbnail/20260625_112225_0zD524goYW_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-08-22",
-  "first_seen": "2026-07-13",
-  "delisted": true
- },
- {
   "id": "youth_gov:3e97febb-e275-4cb3-8902-feca312218a2",
   "source": "youth_gov",
   "source_label": "政府青少年網站",
@@ -1601,46 +1562,6 @@
   "delisted": false
  },
  {
-  "id": "artmate:97442",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "化石獵人",
-  "url": "https://www.art-mate.net/doc/97442",
-  "kind": "活動",
-  "categories": [
-   "導賞",
-   "工作坊"
-  ],
-  "tags": [
-   "文化",
-   "活動",
-   "合家歡"
-  ],
-  "organiser": "TIMELESS-TFC",
-  "venue": "化石獵人",
-  "region": "香港",
-  "start_date": "2026-07-31",
-  "end_date": "2026-08-18",
-  "date_text": "2026-07-31 ( 7:00 PM ~ 9:00 PM ) / 2026-08-18 ( 11:00 AM ~ 1:00 PM )",
-  "time_text": "7:00 PM ~ 9:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 380",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "timelesstfc@gmail.com",
-  "summary": "有沒有想過可以親手令史前生物重見天日? 今個夏天，TIMELESS-TFC 將與大家認識生物的演化外，還親手體驗打開並帶走古老海洋生物化石，更可看到工作室的其他化石標本! 2小時的活動中能讓參加者全面認識物種發展、打開包含生物的岩石，考驗技巧和耐性，感受大自然的奧妙!",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260706_133406_HvSsosOmed_p_300_0.jpeg",
-  "updated": null,
-  "scraped_at": "2026-08-17",
-  "first_seen": "2026-07-26",
-  "delisted": true
- },
- {
   "id": "artmate:98476",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -2522,160 +2443,6 @@
   "updated": null,
   "scraped_at": "2026-08-29",
   "first_seen": "2026-08-09",
-  "delisted": true
- },
- {
-  "id": "artmate:94961",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "Aloha玩一夏！創意藝術營：創作樂塗陶",
-  "url": "https://www.art-mate.net/doc/94961",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "課程"
-  ],
-  "tags": [
-   "活動",
-   "合家歡"
-  ],
-  "organiser": "香港藝術中心",
-  "venue": "Aloha玩一夏！創意藝術營：創作樂塗陶",
-  "region": "香港",
-  "start_date": "2026-08-18",
-  "end_date": "2026-08-18",
-  "date_text": "2026-08-18 ~ 08-21 ( 2:30 PM ~ 5:30 PM ) (星期二至五)",
-  "time_text": "2:30 PM ~ 5:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": 12,
-  "age_max": 18,
-  "is_free": false,
-  "fee_text": "HKD 3290",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "kidscorner@hkac.org.hk",
-  "summary": "巧思創意在夏日綻放，讓孩子們的靈感乘着夏天清風自由飛翔！此4日藝術營專為小小藝術家而設，每日提供不同類別的藝術活動，以培養他們的技能，激發靈感。每天探索不同形式的之藝術範疇，小腦袋全力激活！孩子將會投入一系列刺激的藝術大冒險︰在模板塗鴉課的畫布上學習如何創作，從素描圖像到噴漆技術，探索塗鴉藝術背後的文化背景、設計概念和風格。在陶藝課中學習手捏技巧基礎，親手塑造自己的得意作品，並從裝飾及上釉技巧中展現創意，為作品注入生命。漫遊在油彩課中的絢麗世界，學習不同繪畫技巧，激發創意及鼓勵孩子表達自我。最後在炭筆插畫課中探索黑白大世界，透過繪畫植物插畫及自畫像，學習",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260417_162532_zXoiTK2aIF_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-08-20",
-  "first_seen": "2026-08-16",
-  "delisted": true
- },
- {
-  "id": "artmate:99084",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "The Wanch爵士之夜",
-  "url": "https://www.art-mate.net/doc/99084",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "演出"
-  ],
-  "tags": [
-   "免費"
-  ],
-  "organiser": "The Wanch",
-  "venue": "The Wanch爵士之夜",
-  "region": "香港",
-  "start_date": "2026-08-18",
-  "end_date": "2026-08-18",
-  "date_text": "2026-08-18 ( 9:00 PM )",
-  "time_text": "9:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "Eric Chong同Quantum Groove會將靚聲帶上我哋嘅台。無論你係爵士迷定係想試吓新嘢，過嚟同我哋一齊放鬆吓。好音樂。好人。一個值得記住嘅夜晚。個個都歡迎。到時見。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260805_170808_4NM4Jp5NDc_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-08-17",
-  "first_seen": "2026-08-16",
-  "delisted": true
- },
- {
-  "id": "artmate:94619",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "《Panasonic Proudly Sponsors: Good Music This Lunch》免費午間音樂會",
-  "url": "https://www.art-mate.net/doc/94619",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "演出"
-  ],
-  "tags": [
-   "免費"
-  ],
-  "organiser": "香港小交響樂團",
-  "venue": "通利琴行",
-  "region": "香港",
-  "start_date": "2026-08-18",
-  "end_date": "2026-08-18",
-  "date_text": "2026-08-18 ( 12:40 PM )",
-  "time_text": "12:40 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@hksinfonietta.org",
-  "summary": "由香港小交響樂團主辦，深受歡迎的免費午間音樂會於2026/2027新樂季載譽歸來。除了在香港大會堂的演出外，樂師們更將走進元朗劇院，讓更多觀眾於午飯時分也能悠然細賞動人的室樂演奏。（場內不准進食）節目貝多芬｜「在那裏妳將把手給我」變奏曲雷格｜長笛、小提琴及中提琴小夜曲，作品77a阿倫斯基｜D小調第一鋼琴三重奏，作品32：第二及第三樂章克雷斯普｜《布魯克納低音銅管練習曲》（1996）薩塔斯｜《告別肉體》（2020）",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260408_201409_1P0th9jRet_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-08-17",
-  "first_seen": "2026-08-16",
-  "delisted": true
- },
- {
-  "id": "artmate:99494",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "《牛來》",
-  "url": "https://www.art-mate.net/doc/99494",
-  "kind": "活動",
-  "categories": [
-   "電影",
-   "放映"
-  ],
-  "tags": [
-   "活動",
-   "免費"
-  ],
-  "organiser": "Thy Lab",
-  "venue": "《牛來》",
-  "region": "香港",
-  "start_date": "2026-08-18",
-  "end_date": "2026-08-18",
-  "date_text": "2026-08-18 ~ 08-23 ( 1:30 PM ~ 8:30 PM )",
-  "time_text": "1:30 PM ~ 8:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "《牛來》於香港隆重首映，首度以IMAX 80毫米格式放映《牛來》是由信雨萌執導、孫麗芳編劇的中國動畫電影，於2026年8月5日在中國大陸上映。電影講述一隻名為「牛來」的牛犢在艱苦的環境磨練下成長的故事。《牛來》由信雨萌和他的母親孫麗芳二人，從導演到編劇、配音全部一手包辦。根據自稱導演親友向紅星新聞爆料的內容，電影由二人耗時五年完全手工製作，全無投資，電影的片尾曲亦由孫麗芳親自獻唱。電影的出品方為信雨萌實際持有的大連璟園文化影視傳媒有限公司，其前身為2016年3月成立的大連璟園裝飾工程有限公司，於2021年7月更名涉足影視行業。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260818_153402_bP2KAATatJ_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-08-22",
-  "first_seen": "2026-08-18",
   "delisted": true
  },
  {
@@ -5062,7 +4829,7 @@
   "updated": null,
   "scraped_at": "2026-09-17",
   "first_seen": "2026-08-29",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:98836",
@@ -6621,7 +6388,7 @@
   "updated": null,
   "scraped_at": "2026-09-17",
   "first_seen": "2026-08-31",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99238",
@@ -7237,9 +7004,9 @@
   "summary": "卵石與蛋是兩樣截然不同的物質，它們的特質和意義之間的張力，反映了我們存在的複雜性。 Polly 探索日常存在的平凡，這更是她的研習原則。她強調了與某物相鄰或接觸的想法，以建立作品系列中材料之間的具體和概念上的聯繫。由繪畫以至做模，由鑄啫喱到鑄銅，再發展至打印。就像我們也適應並塑造自己以適應我們所處的環境。Ivy 所提出的主題，展示了Polly的繪畫和多媒體實踐中所使用的材料所帶來可塑性，Polly 把作品的不同媒介交織在一起，形成三個主系列，這三個系列被打造成不僅是三個獨立的作品，其中不同的元素共同創造出一個整體。正如城市景觀中相鄰的空間相互影響。由一篇",
   "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260828_155100_SVGNlpz8aF_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-09-12",
+  "scraped_at": "2026-09-17",
   "first_seen": "2026-09-05",
-  "delisted": true
+  "delisted": false
  },
  {
   "id": "artmate:98623",
@@ -8136,7 +7903,7 @@
   "updated": null,
   "scraped_at": "2026-09-17",
   "first_seen": "2026-08-31",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99772",
@@ -11898,7 +11665,7 @@
   "updated": null,
   "scraped_at": "2026-09-17",
   "first_seen": "2026-09-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99531",
@@ -12166,7 +11933,7 @@
   "updated": null,
   "scraped_at": "2026-09-17",
   "first_seen": "2026-09-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99364",
@@ -12244,7 +12011,7 @@
   "updated": null,
   "scraped_at": "2026-09-17",
   "first_seen": "2026-09-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99310",
@@ -12756,6 +12523,47 @@
   "delisted": false
  },
  {
+  "id": "artmate:99377",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "JCCAC【懷舊中秋夜．藝術村綵燈展】藝術村綵燈展及燈謎互動",
+  "url": "https://www.art-mate.net/doc/99377",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "手作DIY",
+   "活動",
+   "免費",
+   "合家歡"
+  ],
+  "organiser": "賽馬會創意藝術中心",
+  "venue": "JCCAC【懷舊中秋夜．藝術村綵燈展】藝術村綵燈展及燈謎互動",
+  "region": "香港",
+  "start_date": "2026-09-19",
+  "end_date": "2026-09-19",
+  "date_text": "2026-09-19 ~ 09-27 ( 10:00 AM ~ 10:00 PM )",
+  "time_text": "10:00 AM ~ 10:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "prog_mkt@jccac.org.hk",
+  "summary": "【藝術村綵燈展及燈謎互動】日期：2026年9月19至27日時間：10:00-22:00 （每晚6時起亮燈）地點：賽馬會創意藝術中心中央庭園合辦單位：香港青少年知行書院逾百盞手繪藝術燈籠將於JCCAC展出，由香港青少年知行書院邀請逾60位學生精心繪製，同場亦會展示駐村藝術家親自設計藝術燈籠，並附有燈謎與眾同樂，點綴充滿藝術氣息的節日氛圍。*藝術村綵燈展及燈謎互動由民政事務總署及深水埗民政事務處社區參與計劃贊助",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260814_152524_tOTpgdX4Fp_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-09-17",
+  "first_seen": "2026-09-17",
+  "delisted": false
+ },
+ {
   "id": "artmate:99419",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -13132,8 +12940,8 @@
   "venue": "手作鈕扣相片框",
   "region": "香港",
   "start_date": "2026-09-19",
-  "end_date": "2026-09-19",
-  "date_text": "2026-09-19 ( 12:30 PM ~ 2:00 PM )",
+  "end_date": "2026-10-25",
+  "date_text": "2026-09-19 ( 12:30 PM ~ 2:00 PM ) / 2026-10-25 ( 10:00 AM ~ 11:30 AM )",
   "time_text": "12:30 PM ~ 2:00 PM",
   "deadline": null,
   "audience": "",
@@ -13537,6 +13345,44 @@
   "delisted": false
  },
  {
+  "id": "artmate:99882",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "樹皮工作坊",
+  "url": "https://www.art-mate.net/doc/99882",
+  "kind": "活動",
+  "categories": [
+   "工作坊"
+  ],
+  "tags": [
+   "手作DIY",
+   "活動"
+  ],
+  "organiser": "六鄉山莊",
+  "venue": "樹皮工作坊",
+  "region": "香港",
+  "start_date": "2026-09-20",
+  "end_date": "2026-09-20",
+  "date_text": "2026-09-20 ( 2:00 PM ~ 5:00 PM )",
+  "time_text": "2:00 PM ~ 5:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 520",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "我們走進大埔，從區內修剪的枝椏中，將廢棄的樹木資源轉化為具備溫度的生活用品，更和街坊一起重新認識大埔樹木的溫柔實驗。在「六鄉 Commons」，我們將樹皮布（Tapa）及樹皮纖維編織工藝帶進大埔。這是一場關於資源再生、關於社區記憶、更關於「共創」的實驗。 在這場工作坊中，你將親手感受樹皮纖維的質感，並體會資源再生在日常生活中的實踐： 認識自然：從樹種介紹重新連結大埔的綠色生活。 纖維處理：動手體驗樹皮編織工藝及認識樹皮纖維處理，實踐生活中的永續。 活動內容： 大埔樹皮纖維編織杯墊 樹皮知識科普：探索樹皮工藝文化，及親手感受在地樹皮纖維獨有的自然質感。 核",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260902_181653_cVahqGIObT_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-09-17",
+  "first_seen": "2026-09-17",
+  "delisted": false
+ },
+ {
   "id": "artmate:99380",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -13879,7 +13725,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-09-17",
+  "scraped_at": "2026-09-18",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -13917,7 +13763,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-09-17",
+  "scraped_at": "2026-09-18",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -14864,7 +14710,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-09-17",
+  "scraped_at": "2026-09-18",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -14938,7 +14784,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-09-17",
+  "scraped_at": "2026-09-18",
   "first_seen": "2026-07-11",
   "delisted": false
  }
