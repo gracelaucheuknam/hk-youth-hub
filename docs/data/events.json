@@ -1598,7 +1598,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-09-05",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99733",
@@ -2607,7 +2607,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-09-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100152",
@@ -3124,6 +3124,45 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-01",
+  "delisted": false
+ },
+ {
+  "id": "artmate:101169",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「歸樸：The 0 Degree of Looking」鄭寶英個展",
+  "url": "https://www.art-mate.net/doc/101169",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "THE HARTZ PROJECT",
+  "venue": "「歸樸：The 0 Degree of Looking」鄭寶英個展",
+  "region": "香港",
+  "start_date": "2026-09-19",
+  "end_date": "2026-09-19",
+  "date_text": "2026-09-19 ~ 10-31 ( 11:00 AM ~ 7:00 PM )",
+  "time_text": "11:00 AM ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "THE HARTZ PROJECT 欣然呈獻韓國藝術家鄭寶英（Boyoung Jeong）個展《歸樸：The 0 Degree of Looking》。在世界加速運轉的當下，本次展覽則通過引入一份寧靜來過濾掉現代生活的喧囂，呈現出一種純粹的“零度觀看”。這一理念借用Roland Barthes關於“中性”的思考，主張摒棄過度的敘事重負、文化干擾與主觀情緒投射。觀看不再只是盲目地接收畫面信息，而是讓人純粹地去感受作品與空間本身的存在。鄭寶英的作品展現出一種內斂的沈靜。這些作品並非刻意張揚，而是通過光影與極簡幾何的精妙互動，在空曠的空間中確立起一種無形的重量",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202610/thumbnail/20261014_180308_yEZNxcvAiq_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "first_seen": "2026-10-17",
   "delisted": false
  },
  {
@@ -6678,6 +6717,46 @@
   "delisted": true
  },
  {
+  "id": "artmate:100306",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "2026 韓國獨立電影展演：「渡塵 \"PASSAGE\"」",
+  "url": "https://www.art-mate.net/doc/100306",
+  "kind": "活動",
+  "categories": [
+   "電影",
+   "放映"
+  ],
+  "tags": [
+   "文化",
+   "活動",
+   "免費"
+  ],
+  "organiser": "駐香港韓國文化院",
+  "venue": "2026 韓國獨立電影展演：「渡塵 \"PASSAGE\"」",
+  "region": "海外",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-08",
+  "date_text": "2026-10-08 ~ 10-29 / 2026-10-01 ~ 10-31",
+  "time_text": "",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "2026韓國獨立電影展映以「渡塵」為題，探討當代社會邊緣人物如何應對生活的種種處境。是次精選的電影並非單純展現困境，而是聚焦於人們實際的生存「方法論」，以及他們如何以積極的方式處理現狀，並建立堅韌的意志。這些電影作品記錄了都市的少數群體在心理、社會和人際關係上的轉變，突顯從團結與集體忍耐中所產生的力量。展映邀請觀眾從這些日常故事中尋找共鳴，並一起發掘如何面對人生各種挑戰。長片精選放映時間表10月8日（四）7pm, Spring Night 《春夜》15月8日（四）7pm, Kill Me Now 《殺了我吧》22月8日（四）7pm, The Pregna",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260917_185932_91dbTYgq7X_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "delisted": false
+ },
+ {
   "id": "artmate:100594",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -6794,9 +6873,9 @@
   "summary": "由 Umami Culture Lab 與香港藤器品牌 Soy Sola 共同呈獻，是次展覽是 Soy Sola 創辦人 Loching Lam 首個藤藝個展，將展出其十年織藤生涯中的經典作品、跨界插畫原稿，以及全新創作——「藤化」日常器物系列。藝術家以藤編比喻人生，透過藤在乾燥、浸泡、曬乾後的不同狀態，隱喻人生不同階段被包裹、彎曲、再重新定型的過程。她以藤包裹日常器物，將食物、兒子的玩具及護膚品器皿等，轉化為承載個人身份與記憶的創作載體。這些器物不只關乎功能，而是回應藝術家在創作者、母親、品牌創辦人等不同身份之間的流動與轉換。展覽將設有兩場由 Loch",
   "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260928_161704_dszyrf9lYc_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-10-14",
+  "scraped_at": "2026-10-17",
   "first_seen": "2026-10-04",
-  "delisted": true
+  "delisted": false
  },
  {
   "id": "artmate:100607",
@@ -7154,6 +7233,85 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-02",
+  "delisted": false
+ },
+ {
+  "id": "artmate:101168",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「白藏之境」群展",
+  "url": "https://www.art-mate.net/doc/101168",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "活動",
+   "免費"
+  ],
+  "organiser": "天趣國際藝術",
+  "venue": "「白藏之境」群展",
+  "region": "香港",
+  "start_date": "2026-10-02",
+  "end_date": "2026-10-02",
+  "date_text": "2026-10-02 ~ 10-31 ( 10:00 AM ~ 7:00 PM )",
+  "time_text": "10:00 AM ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "「白藏」是古人對秋季的稱謂。相較於春夏的生長與繁盛，秋更接近一個由外而內的過程：事物仍在發生，但速度開始放慢，能量逐漸收斂，生命在沉澱中保留下一個階段的痕跡。展覽借此作為觀看的起點，關注藝術家如何從外部世界出發，在創作中逐步回到自身。「白藏之境」由馬泳暉策展，將於10月2日至31日展出 Bolin、丁力、顧強、黎鴻城、林銘君、木子凡、宋宛瑾及耍惹石主八位藝術家的作品。八位藝術家沒有形成一種整齊劃一的「白藏美學」。相反，展覽保留作品之間的差異，讓生命的生長、自然的變化、材料的沉積、記憶的回返與個人的自省彼此並置。「由盛而斂」也不再只是季節的描述，而成為一種",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202610/thumbnail/20261014_175734_S6ePuJKUCF_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "delisted": false
+ },
+ {
+  "id": "artmate:100491",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "「赤水」第六代伊藤赤水首個香港個展",
+  "url": "https://www.art-mate.net/doc/100491",
+  "kind": "活動",
+  "categories": [
+   "視覺藝術",
+   "展覽"
+  ],
+  "tags": [
+   "多媒體",
+   "活動",
+   "免費"
+  ],
+  "organiser": "Touch Ceramics",
+  "venue": "「赤水」第六代伊藤赤水首個香港個展",
+  "region": "香港",
+  "start_date": "2026-10-02",
+  "end_date": "2026-10-02",
+  "date_text": "2026-10-02 ~ 10-31 ( 11:00 AM ~ 7:00 PM )",
+  "time_text": "11:00 AM ~ 7:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": true,
+  "fee_text": "免費",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "hello@touchceramics.com",
+  "summary": "「願我的作品，為你築起一隅心靈安處的空間。」——第六代伊藤赤水對我而言，真正動人的策展，是讀懂作品背後的呼吸，感受藝術家如何將一生與奮鬥展現在創作之上。Touch Ceramics 香港非常榮幸邀請了日本無名異燒大師——第六代伊藤赤水（伊藤榮傑先生）舉辦香港首個展，來一場關於時間、風土與宿命的對話。這一切的源頭，要從日本新潟縣佐渡島說起。佐渡島擁有2024年獲列入聯合國教科文組織世界遺產的佐渡金山，而在山麓之間，孕育著一種富含氧化鐵、色澤極致鮮紅的礦石——「無名異」。它在中國自古為藥材，具活血止血、消腫定痛之效；江戶時代亦曾作為止血藥材與高溫熔爐原料使用",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260923_181103_NiCulPVpzp_p_300_0.png",
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "first_seen": "2026-10-17",
   "delisted": false
  },
  {
@@ -8055,9 +8213,9 @@
   "summary": "牛奶愛好者集合！十月限定「薄鳧林牧場牛奶節」正式登場！ 薄鳧林牧場是香港現代乳業的重要發源地之一，至今已有超過 140 年歷史。從昔日飼養乳牛、擠奶生產，到把新鮮牛奶送往千家萬戶，牛奶不僅是牧場發展的重要見證，更深深融入香港人的飲食文化與生活記憶之中。 今年十月，薄鳧林牧場牛奶節希望以「牛奶」作為連結歷史與當代生活的主題，將薄鳧林牧場的文化遺產價值，與今日香港的飲食文化、營養、創意食品及社區生活連結起來，為大家帶截然不同的牛奶體驗！- Shake! Shake! 手造牛油工作坊 體驗乳製品的製作過程--從一瓶淡忌廉開始，親手搖製真正的牛油。參加者可於同一",
   "image": "https://cdn.art-mate.net/uploads/artmate/202610/thumbnail/20261008_172325_LOxJ2EVWNh_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-10-14",
+  "scraped_at": "2026-10-17",
   "first_seen": "2026-10-14",
-  "delisted": true
+  "delisted": false
  },
  {
   "id": "artmate:100477",
@@ -9184,7 +9342,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-09",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100698",
@@ -9942,6 +10100,45 @@
   "delisted": true
  },
  {
+  "id": "artmate:101153",
+  "source": "artmate",
+  "source_label": "art-mate 藝文平台",
+  "source_type": "活動平台",
+  "title": "萬聖節怪奇遊樂場",
+  "url": "https://www.art-mate.net/doc/101153",
+  "kind": "活動",
+  "categories": [
+   "工作坊"
+  ],
+  "tags": [
+   "其他",
+   "活動",
+   "合家歡"
+  ],
+  "organiser": "南豐紗廠",
+  "venue": "萬聖節怪奇遊樂場",
+  "region": "香港",
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-10",
+  "date_text": "2026-10-10 ~ 11-01 ( 12:00 NN ~ 6:00 PM )",
+  "time_text": "12:00 NN ~ 6:00 PM",
+  "deadline": null,
+  "audience": "",
+  "age_min": null,
+  "age_max": null,
+  "is_free": false,
+  "fee_text": "HKD 30, 15",
+  "deposit": "",
+  "apply_url": "",
+  "enquiry": "info@art-mate.net",
+  "summary": "召集所有大膽又愛玩的大人小朋友，一次過暢玩 2大互動遊戲與手作體驗！入場即獲贈專屬怪奇動物角色紙頭套及專屬通行證，化身奇妙生物一齊闖關贏取萬聖節獎品！ 三大怪奇互動體驗：1）毛蟲入手挑戰精準眼界與拋投技巧，分數愈高，獎品愈豐富2）點蟲蟲 蟲蟲飛瞄準彈射台，將食物精準射入青蛙口中，累積高分換取精美禮物3）怪奇黏土工作坊發揮天馬行空的想像力，親手捏出屬於你心目中的怪奇動物",
+  "image": "https://cdn.art-mate.net/uploads/artmate/202610/thumbnail/20261014_151745_mCdTf8ZmHN_p_300_0.jpg",
+  "updated": null,
+  "scraped_at": "2026-10-17",
+  "first_seen": "2026-10-17",
+  "delisted": false
+ },
+ {
   "id": "artmate:100161",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -10057,7 +10254,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-05",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100285",
@@ -11333,9 +11530,9 @@
   "summary": "記憶，並沒有因時間的流逝而褪色；相反，漸漸地沉澱成一種渾然天成的色彩。繼2024年《如．是．微塵》之後，編舞林玥霏（Faye Lam）與戲劇及形體動作治療師黃靜嫺（Dorothy Wong）再度𢹂手合作，帶來舞蹈創作與藝術療癒全新體驗！由Faye編舞的《水色》舞蹈劇場將於今年11 月上演，我們可透過手舞足蹈去表達情感，也可透過畫筆表達心情。當舞蹈與水色相遇，又會擦出什麼火花？在舞動／筆觸／顏色、一動一靜之間，探索身體與人際關係，以及與自己的親密對話。是次工作坊，Faye會分享《水色》及過往舞蹈作品的創作歷程，讓參加者親身體驗互動創作。Dorothy 擷取",
   "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260916_175814_JLKuMHx4ft_p_300_0.jpg",
   "updated": null,
-  "scraped_at": "2026-10-14",
+  "scraped_at": "2026-10-17",
   "first_seen": "2026-10-14",
-  "delisted": true
+  "delisted": false
  },
  {
   "id": "artmate:100348",
@@ -11454,7 +11651,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-13",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99314",
@@ -11534,7 +11731,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100101",
@@ -11614,7 +11811,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100172",
@@ -11653,7 +11850,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100479",
@@ -11768,7 +11965,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:99974",
@@ -11805,7 +12002,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100170",
@@ -11844,7 +12041,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100678",
@@ -11879,7 +12076,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100487",
@@ -11919,7 +12116,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100171",
@@ -11958,7 +12155,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100881",
@@ -11996,7 +12193,7 @@
   "updated": null,
   "scraped_at": "2026-10-17",
   "first_seen": "2026-10-12",
-  "delisted": false
+  "delisted": true
  },
  {
   "id": "artmate:100866",
