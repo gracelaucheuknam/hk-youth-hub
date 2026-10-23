@@ -2297,83 +2297,6 @@
   "delisted": true
  },
  {
-  "id": "artmate:94624",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "《Panasonic Proudly Sponsors: Good Music This Lunch》免費午間音樂會",
-  "url": "https://www.art-mate.net/doc/94624",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "演出"
-  ],
-  "tags": [
-   "免費"
-  ],
-  "organiser": "香港小交響樂團",
-  "venue": "通利琴行",
-  "region": "香港",
-  "start_date": "2026-09-22",
-  "end_date": "2026-09-22",
-  "date_text": "2026-09-22 ( 12:40 PM )",
-  "time_text": "12:40 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@hksinfonietta.org",
-  "summary": "由香港小交響樂團主辦，深受歡迎的免費午間音樂會於2026/2027新樂季載譽歸來。除了在香港大會堂的演出外，樂師們更將走進元朗劇院，讓更多觀眾於午飯時分也能悠然細賞動人的室樂演奏。（場內不准進食）節目雷格｜長笛、小提琴及中提琴小夜曲，作品141a米堯｜《勒奈國王的壁爐》，作品205鮑羅丁｜D大調第二弦樂四重奏",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260408_201430_hMSJ1CYHCW_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-09-22",
-  "first_seen": "2026-09-20",
-  "delisted": true
- },
- {
-  "id": "artmate:99913",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "六鄉山莊— 表達藝術自我關懷小組",
-  "url": "https://www.art-mate.net/doc/99913",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "工作坊"
-  ],
-  "tags": [
-   "活動",
-   "免費"
-  ],
-  "organiser": "六鄉山莊",
-  "venue": "六鄉山莊— 表達藝術自我關懷小組",
-  "region": "香港",
-  "start_date": "2026-09-22",
-  "end_date": "2026-09-22",
-  "date_text": "2026-09-22 , 09-29 , 10-06 , 10-13 9 3:00 PM ~ 4:30 PM )",
-  "time_text": "",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "在忙碌生活中，你有幾耐冇好好停低，聽聽身體同內心嘅聲音？ 或者想喺安全空間入面，慢慢整理自己嘅感受，同街坊一齊建立互相支持嘅網絡？ 六鄉Commons 邀請到香港表達藝術治療服務中心主持，帶領大埔街坊參與「表達藝術自我關懷小組」。透過舞動、輕黏土、藝術拼貼及手工創作，在輕鬆安全的氛圍中，放鬆身心，找回內心的安穩和力量。 小組一共有四節： 第1節｜療癒美食 : 以舞動遊戲輕鬆相識，並透過輕黏土創作專屬於你的療癒美食(Comfort food)，用視覺與觸覺撫慰身心。 第2節｜安全舒服的空間 : 隨舞動的絲巾釋放壓力，再利用藝術拼貼，築起一個讓你在忙錄中感到",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260903_172247_absjKtk5kY_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-10-13",
-  "first_seen": "2026-09-27",
-  "delisted": true
- },
- {
   "id": "artmate:97092",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -12357,7 +12280,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -12395,7 +12318,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -13342,7 +13265,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -13416,7 +13339,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-22",
+  "scraped_at": "2026-10-23",
   "first_seen": "2026-07-11",
   "delisted": false
  }
