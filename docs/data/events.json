@@ -2066,46 +2066,6 @@
   "delisted": true
  },
  {
-  "id": "artmate:99408",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "印度果殼手鈴 DIY 工作坊",
-  "url": "https://www.art-mate.net/doc/99408",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "工作坊"
-  ],
-  "tags": [
-   "手作DIY",
-   "文化",
-   "活動"
-  ],
-  "organiser": "跨躍音符",
-  "venue": "印度果殼手鈴 DIY 工作坊",
-  "region": "香港",
-  "start_date": "2026-09-19",
-  "end_date": "2026-09-24",
-  "date_text": "2026-09-19 ( 2:00 PM ~ 3:30 PM ) / 2026-09-20 ( 4:00 PM ~ 5:30 PM )",
-  "time_text": "2:00 PM ~ 3:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 380 ( 正價 )",
-  "deposit": "",
-  "apply_url": "https://www.art-mate.net/buy_ticket/99408",
-  "enquiry": "info@beyondnoteshk.com",
-  "summary": "你聽過來自印度的「果殼手鈴」(Pangji) 嗎？它由天然的植物果實串連而成，搖動時，果殼內的沙石發出如細雨、如海浪般的沙沙聲；碰撞時，則帶來清脆如木塊的敲擊聲。這兩種聲音交織，形成療癒節奏，瞬間帶你感受大自然的原始脈動。透過這原始而純粹的聲音，能助你連結內心深處的平靜。齊來感受這份由大地的音樂力量，為生活注入一絲寧靜。1.5小時工作坊包括：- 製作屬於自己的「果殼手鈴」(已包含果殼及製作材料）- 體驗以果殼手鈴冥想- 體驗不同材質的果殼手鈴- 了解果殼搖鈴簡史和文化",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260819_133030_5Ahq9JzQpR_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-09-30",
-  "first_seen": "2026-09-13",
-  "delisted": true
- },
- {
   "id": "artmate:99468",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -2219,84 +2179,6 @@
   "scraped_at": "2026-10-04",
   "first_seen": "2026-09-27",
   "delisted": true
- },
- {
-  "id": "artmate:100213",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "「秋鳴」展覽",
-  "url": "https://www.art-mate.net/doc/100213",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "展覽"
-  ],
-  "tags": [
-   "活動",
-   "免費"
-  ],
-  "organiser": "顧家玲",
-  "venue": "「秋鳴」展覽",
-  "region": "香港",
-  "start_date": "2026-09-24",
-  "end_date": "2026-09-24",
-  "date_text": "2026-09-24 ~ 09-30 ( 10:00 PM ~ 8:00 PM )",
-  "time_text": "10:00 PM ~ 8:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "「秋鳴」是 Eva Ku（顧家玲）、Emily Law（羅肇婷）與 Cindy Rhee（李鳳金）三位女性藝術家的聯合展覽。她們以數十年的人生經驗與藝術探索，分別透過夢境般的線條與直覺筆觸、中西融合的抽象水墨，以及粗獷鮮明的具象繪畫，回應記憶、情感、生命與時間的流逝。適逢中秋佳節，三位藝術家因共同的美學追求而相聚，以各自獨特的創作語言交織成一場豐盛的秋日藝術對話，向時光致意。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260916_135144_PmeAlCUpAj_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-09-30",
-  "first_seen": "2026-09-20",
-  "delisted": true
- },
- {
-  "id": "artmate:99887",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "藝術自癒旅程：內在風景",
-  "url": "https://www.art-mate.net/doc/99887",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "工作坊"
-  ],
-  "tags": [
-   "活動",
-   "身心靈"
-  ],
-  "organiser": "The Soul of Art",
-  "venue": "藝術自癒旅程：內在風景",
-  "region": "香港",
-  "start_date": "2026-09-24",
-  "end_date": "2026-09-24",
-  "date_text": "2026-09-24 , 10-08 , 10-15 , 10-22 ( 1:00 PM ~ 3:00 PM )",
-  "time_text": "1:00 PM ~ 3:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 1350 四堂完整旅程",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "讓身體與藝術帶你回到自己 你好嗎？生活有覺得累嗎？ 有時候，我們不是沒有答案，而是身體太緊繃、情緒太滿、腦袋太吵，令我們無法真正聽見自己。 藝術自癒旅程以身體、呼吸與藝術創作作為入口，讓我們先慢下來、重新感受安全，再慢慢探索內在正在發生的事情。 這不是藝術技巧課，也不是要你解決所有問題。 而是一個安全的空間，讓你放下期待，聆聽身體，透過創作接近自己，慢慢增加陪伴自己、容納情緒及面對生活的能力。 你不需要懂藝術，也不需要畫得好。 只需要帶著當下的自己來。《藝術自癒旅程：內在風景 》 當身體慢下來，我們才有空間聽見內在不同的聲音。 <內在風景>會以身體作為入",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260903_111656_5Mg8ySjY38_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-22",
-  "first_seen": "2026-10-11",
-  "delisted": false
  },
  {
   "id": "artmate:98995",
@@ -12047,7 +11929,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-24",
+  "scraped_at": "2026-10-25",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -12085,7 +11967,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-24",
+  "scraped_at": "2026-10-25",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -13032,7 +12914,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-24",
+  "scraped_at": "2026-10-25",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -13106,7 +12988,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-24",
+  "scraped_at": "2026-10-25",
   "first_seen": "2026-07-11",
   "delisted": false
  }
