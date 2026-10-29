@@ -1796,44 +1796,6 @@
   "delisted": false
  },
  {
-  "id": "artmate:98995",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "《恩雨·紅綻 》中華聖潔會靈風中學師生校友視覺藝術創作展覽",
-  "url": "https://www.art-mate.net/doc/98995",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "展覽"
-  ],
-  "tags": [
-   "免費"
-  ],
-  "organiser": "中華聖潔會靈風中學",
-  "venue": "《恩雨·紅綻 》中華聖潔會靈風中學師生校友視覺藝術創作展覽",
-  "region": "香港",
-  "start_date": "2026-09-25",
-  "end_date": "2026-09-28",
-  "date_text": "2026-09-25 ~ 09-27 ( 11:00 AM ~ 8:00 PM ) / 2026-09-28 ( 11:00 AM ~ 2:00 PM )",
-  "time_text": "11:00 AM ~ 8:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "更多詳情：https://www.jccac.org.hk/?a=group&id=c_1&cat_id=28.=future&doc_id=10032",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260805_094955_7O6Xcq93Ld_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-09-28",
-  "first_seen": "2026-09-20",
-  "delisted": true
- },
- {
   "id": "artmate:99416",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -1911,84 +1873,6 @@
   "scraped_at": "2026-10-18",
   "first_seen": "2026-09-27",
   "delisted": true
- },
- {
-  "id": "artmate:100189",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "藝術家講座：陳世英——《他界之器》",
-  "url": "https://www.art-mate.net/doc/100189",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "講座"
-  ],
-  "tags": [
-   "設計",
-   "活動",
-   "免費"
-  ],
-  "organiser": "香港理工大學",
-  "venue": "藝術家講座：陳世英——《他界之器》",
-  "region": "香港",
-  "start_date": "2026-09-28",
-  "end_date": "2026-09-28",
-  "date_text": "2026-09-28 ( 7:30 PM )",
-  "time_text": "7:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "https://www.art-mate.net/buy_ticket/100189",
-  "enquiry": "pccpeo@polyu.edu.hk",
-  "summary": "在本次講座中，藝術大師陳世英先生將娓娓道來其創作歷程與藝術哲思，縱覽其跨域實踐之演變軌跡——由寶石雕琢與高級珠寶，乃至鈦金屬、陶瓷及大型雕塑與裝置藝術的開拓性創新。陳先生亦將深入剖析好奇心、實驗精神、媒介特質與工藝之道，反思數十年來所經歷的挫折，如何淬鍊其創作視野與思維方式。是次講座實屬良機，讓理大師生得以向這位藝術大師汲取靈感，提升藝術素養，深化對藝術與創新的體悟。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260915_152913_Jj3KPWnHss_p_300_0.jpeg",
-  "updated": null,
-  "scraped_at": "2026-09-28",
-  "first_seen": "2026-09-28",
-  "delisted": true
- },
- {
-  "id": "artmate:98480",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "香港舞蹈團舞蹈課程 (第74期) (上課日期：28.09 至 18.12.2026)",
-  "url": "https://www.art-mate.net/doc/98480",
-  "kind": "活動",
-  "categories": [
-   "舞蹈",
-   "課程"
-  ],
-  "tags": [
-   "活動"
-  ],
-  "organiser": "香港舞蹈團",
-  "venue": "香港舞蹈團舞蹈課程 (第74期) (上課日期：28.09 至 18.12.2026)",
-  "region": "香港",
-  "start_date": "2026-09-28",
-  "end_date": "2026-09-28",
-  "date_text": "2026-09-28 ~ 12-18",
-  "time_text": "",
-  "deadline": null,
-  "audience": "",
-  "age_min": 16,
-  "age_max": null,
-  "is_free": null,
-  "fee_text": "未列明",
-  "deposit": "",
-  "apply_url": "https://www.art-mate.net/buy_ticket/98480",
-  "enquiry": "outreach@hkdance.com",
-  "summary": "舞蹈課程 (第74期) (上課日期：28.09 至 18.12.2026)適合16歲或以上上課地點：香港舞蹈團1-4號排練室-香港皇后大道中345號上環市政大廈6樓及8樓 天威中心舞蹈室-香港上環皇后大道西23號天威中心3樓全層 香港舞蹈團藝術空間-香港鰂魚涌英皇道856號君豪峰地下6號舖網上報名日期：由2026年9月8日(星期二)上午10:00 至 開課前一天中午12:00(申請人每次只限報名每班一個名額)瀏覽課程資料及每班上課日期：https://shorturl.at/AooeT(1) 網上報名：申請人每次只限報名每班一個名額。(2) 每班約8-1",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260817_102756_DaRRrmHiDX_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-22",
-  "first_seen": "2026-09-28",
-  "delisted": false
  },
  {
   "id": "artmate:99997",
@@ -10170,7 +10054,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-28",
+  "scraped_at": "2026-10-29",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10208,7 +10092,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-28",
+  "scraped_at": "2026-10-29",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -11155,7 +11039,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-28",
+  "scraped_at": "2026-10-29",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -11229,7 +11113,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-28",
+  "scraped_at": "2026-10-29",
   "first_seen": "2026-07-11",
   "delisted": false
  }
