@@ -1533,44 +1533,6 @@
   "delisted": true
  },
  {
-  "id": "artmate:98590",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "「一試傾情」演技入門班（第三十一及三十二期）│ 香港話劇團教育中心",
-  "url": "https://www.art-mate.net/doc/98590",
-  "kind": "活動",
-  "categories": [
-   "劇場",
-   "課程"
-  ],
-  "tags": [
-   "活動"
-  ],
-  "organiser": "香港話劇團",
-  "venue": "「一試傾情」演技入門班（第三十一及三十二期）│ 香港話劇團教育中心",
-  "region": "香港",
-  "start_date": "2026-09-17",
-  "end_date": "2026-09-29",
-  "date_text": "2026-09-17 , 09-24 , 10-08 , 10-15 ( 7:30 PM ~ 10:00 PM ) ( 逢星期四 ) / 2026-09-29 , 10-06 , 10-13 , 10-20 ( 7:30 PM ~ 10:00 PM ) ( 逢星期二 )",
-  "time_text": "7:30 PM ~ 10:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 2400",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "outreach@hkrep.com",
-  "summary": "在短短的十小時內，學員將會在導師的帶領下，透過劇場遊戲、形體練習、角色扮演、小組即興等活動，逐步認識演戲的基礎概念和方法。導師亦會運用聲音、衣飾和物件來刺激學員的想像，成為突破自我常規的動力，從中體會飾演不同人物的樂趣。最後一課為「角色大派對」，讓學員浸沉在精心設計的虛構情境中，以自創的角色身份掌握真實和自然的演戲直覺。初級班適合演戲素人參加，讓大家在輕鬆愉快的氣氛中，「一試演戲」，就「立即傾情」。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260827_144749_wMuruUTdXj_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-10-20",
-  "first_seen": "2026-09-13",
-  "delisted": true
- },
- {
   "id": "artmate:99925",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -1953,85 +1915,6 @@
   "scraped_at": "2026-10-22",
   "first_seen": "2026-09-28",
   "delisted": false
- },
- {
-  "id": "artmate:100275",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "實踐中的可持續發展：與克里奧娜．墨菲 及 Riccardo Chesti 對談",
-  "url": "https://www.art-mate.net/doc/100275",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "講座"
-  ],
-  "tags": [
-   "活動",
-   "免費",
-   "在線"
-  ],
-  "organiser": "香港畫廊協會",
-  "venue": "實踐中的可持續發展：與克里奧娜．墨菲 及 Riccardo Chesti 對談",
-  "region": "香港",
-  "start_date": "2026-09-29",
-  "end_date": "2026-09-29",
-  "date_text": "2026-09-29 ( 5:00 PM )",
-  "time_text": "5:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "本活動由香港畫廊協會主辦，旨在將全球可持續發展的領導經驗與香港的畫廊社群連結起來。我們邀請了豪瑟沃斯全球環境可持續發展主管 克里奧娜．墨菲（Cliodhna Murphy），與 MASSIMODECARLO 香港總監 Riccardo Chesti 進行深入對談，從全球視野到香港的在地現況，坦誠探討藝術業要減少生態足跡究竟需要付諸哪些實質行動。此次對談將連結國際視野與香港在地現實，從全球可持續標準出發，探討適合本地畫廊及機構落實的切實可行之道。在這次現場交流中，歡迎大家帶著問題而來，分享在自身實踐中甚麼有效、甚麼尚待改善，以及仍在摸索的地方。無論你身處藝",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260917_155800_tagbMDo2kw_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-09-29",
-  "first_seen": "2026-09-28",
-  "delisted": true
- },
- {
-  "id": "artmate:99888",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "藝術自癒旅程：呼吸・感受・表達",
-  "url": "https://www.art-mate.net/doc/99888",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "工作坊"
-  ],
-  "tags": [
-   "活動",
-   "身心靈"
-  ],
-  "organiser": "The Soul of Art",
-  "venue": "藝術自癒旅程：呼吸・感受・表達",
-  "region": "香港",
-  "start_date": "2026-09-29",
-  "end_date": "2026-09-29",
-  "date_text": "2026-09-29 , 10-06 , 10-13 , 10-20 ( 7:30 PM ~ 9:30 PM )",
-  "time_text": "7:30 PM ~ 9:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 1350 四堂完整旅程",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "讓身體與藝術帶你回到自己 你好嗎？生活有覺得累嗎？ 有時候，我們不是沒有答案，而是身體太緊繃、情緒太滿、腦袋太吵，令我們無法真正聽見自己。 藝術自癒旅程以身體、呼吸與藝術創作作為入口，讓我們先慢下來、重新感受安全，再慢慢探索內在正在發生的事情。 這不是藝術技巧課，也不是要你解決所有問題。 而是一個安全的空間，讓你放下期待，聆聽身體，透過創作接近自己，慢慢增加陪伴自己、容納情緒及面對生活的能力。 你不需要懂藝術，也不需要畫得好。 只需要帶著當下的自己來。《藝術自癒旅程：呼吸・感受・表達》身體是進入內在世界的起點。透過呼吸、感官、身體覺察、動作及自由創作，讓",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260903_112337_FfxMndas6Z_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-20",
-  "first_seen": "2026-10-02",
-  "delisted": true
  },
  {
   "id": "artmate:98786",
@@ -10054,7 +9937,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -10092,7 +9975,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -11039,7 +10922,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -11113,7 +10996,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-10-29",
+  "scraped_at": "2026-10-30",
   "first_seen": "2026-07-11",
   "delisted": false
  }
