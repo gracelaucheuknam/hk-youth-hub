@@ -1221,45 +1221,6 @@
   "delisted": true
  },
  {
-  "id": "artmate:99567",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "身體舞動系列——密集當代舞工作坊（9、10月）",
-  "url": "https://www.art-mate.net/doc/99567",
-  "kind": "活動",
-  "categories": [
-   "舞蹈",
-   "工作坊",
-   "課程"
-  ],
-  "tags": [
-   "活動"
-  ],
-  "organiser": "香港舞蹈劇場",
-  "venue": "身體舞動系列——密集當代舞工作坊（9、10月）",
-  "region": "香港",
-  "start_date": "2026-09-07",
-  "end_date": "2026-10-05",
-  "date_text": "2026-09-07 , 09-14 , 09-21 , 09-28 ( 7:30 PM ~ 9:00 PM ) / 2026-10-05 , 10-12 ( 7:30 PM ~ 9:00 PM )",
-  "time_text": "7:30 PM ~ 9:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 300(1堂)",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "不論你是初學者還是經驗的舞者，都可以從中獲得：－創意靈感－身體覺察－提升動作技巧－了解舞蹈的結構",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260821_115255_nS8iN9ydXh_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-10-12",
-  "first_seen": "2026-09-06",
-  "delisted": true
- },
- {
   "id": "artmate:98602",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -2001,44 +1962,6 @@
   "updated": null,
   "scraped_at": "2026-10-11",
   "first_seen": "2026-10-03",
-  "delisted": true
- },
- {
-  "id": "artmate:94631",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "《Panasonic Proudly Sponsors: Good Music This Lunch》免費午間音樂會",
-  "url": "https://www.art-mate.net/doc/94631",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "演出"
-  ],
-  "tags": [
-   "免費"
-  ],
-  "organiser": "香港小交響樂團",
-  "venue": "通利琴行",
-  "region": "香港",
-  "start_date": "2026-10-05",
-  "end_date": "2026-10-05",
-  "date_text": "2026-10-05 ( 12:40 PM )",
-  "time_text": "12:40 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@hksinfonietta.org",
-  "summary": "由香港小交響樂團主辦，深受歡迎的免費午間音樂會於2026/2027新樂季載譽歸來。除了在香港大會堂的演出外，樂師們更將走進元朗劇院，讓更多觀眾於午飯時分也能悠然細賞動人的室樂演奏。（場內不准進食）節目莫扎特｜A大調單簧管五重奏，K581：第一樂章赫爾佐根伯格｜雙簧管、圓號及鋼琴三重奏，作品61弗朗賽｜巴松管及弦樂五重奏嬉遊曲辛丁｜第二小夜曲，作品92：第二及第五樂章",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202604/thumbnail/20260408_201459_5mlh5bVtew_p_300_0.png",
-  "updated": null,
-  "scraped_at": "2026-10-05",
-  "first_seen": "2026-10-05",
   "delisted": true
  },
  {
@@ -8214,7 +8137,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-04",
+  "scraped_at": "2026-11-05",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -8252,7 +8175,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-04",
+  "scraped_at": "2026-11-05",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9199,7 +9122,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-04",
+  "scraped_at": "2026-11-05",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -9273,7 +9196,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-04",
+  "scraped_at": "2026-11-05",
   "first_seen": "2026-07-11",
   "delisted": false
  }
