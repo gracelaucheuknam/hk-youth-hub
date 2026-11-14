@@ -1145,45 +1145,6 @@
   "delisted": false
  },
  {
-  "id": "artmate:99711",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "「煙巒涉趣」群展",
-  "url": "https://www.art-mate.net/doc/99711",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "展覽"
-  ],
-  "tags": [
-   "活動",
-   "免費"
-  ],
-  "organiser": "方由美術",
-  "venue": "「煙巒涉趣」群展",
-  "region": "香港",
-  "start_date": "2026-08-27",
-  "end_date": "2026-10-14",
-  "date_text": "2026-08-27 ~ 10-03 / 2026-10-14 ( 5:00 PM ~ 8:00 PM )",
-  "time_text": "",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "Ora-Ora is delighted to announce a major new multi-disciplinary group show for August, and its first collaboration with independent Hong Kong-based curator Zoie Yung.“The Pleasure-Dome of Hills: A Curated Hallucination of a Modern Literati” pays tribute to Ora-Ora's location in T",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202608/thumbnail/20260827_105258_rS62bTlqsM_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-14",
-  "first_seen": "2026-09-29",
-  "delisted": true
- },
- {
   "id": "artmate:100263",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -1803,44 +1764,6 @@
   "updated": null,
   "scraped_at": "2026-10-18",
   "first_seen": "2026-10-17",
-  "delisted": true
- },
- {
-  "id": "artmate:100168",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "手碟彈奏技巧工作坊",
-  "url": "https://www.art-mate.net/doc/100168",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "工作坊"
-  ],
-  "tags": [
-   "活動"
-  ],
-  "organiser": "靜心生活",
-  "venue": "手碟彈奏技巧工作坊",
-  "region": "香港",
-  "start_date": "2026-10-14",
-  "end_date": "2026-10-14",
-  "date_text": "2026-10-14 ( 7:00 PM ~ 8:15 PM )",
-  "time_text": "7:00 PM ~ 8:15 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 150",
-  "deposit": "",
-  "apply_url": "https://www.art-mate.net/buy_ticket/100168",
-  "enquiry": "mindfullivinghongkong@gmail.com",
-  "summary": "手碟彈奏技巧工作坊旨在教授基礎敲擊方法、節奏運用與音色控制，透過實踐練習提升演奏表達力。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260915_113856_AJfndbMkGx_p_300_0.jpeg",
-  "updated": null,
-  "scraped_at": "2026-10-14",
-  "first_seen": "2026-10-12",
   "delisted": true
  },
  {
@@ -5284,7 +5207,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -5322,7 +5245,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -6269,7 +6192,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -6343,7 +6266,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-13",
+  "scraped_at": "2026-11-14",
   "first_seen": "2026-07-11",
   "delisted": false
  }
