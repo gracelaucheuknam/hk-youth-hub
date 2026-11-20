@@ -878,43 +878,6 @@
   "delisted": false
  },
  {
-  "id": "artmate:100263",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "Nikon香港贊助 : 藍屋中秋花燈攝影及短片比賽 2026",
-  "url": "https://www.art-mate.net/doc/100263",
-  "kind": "活動",
-  "categories": [
-   "文娛消閒"
-  ],
-  "tags": [
-   "攝影"
-  ],
-  "organiser": "We嘩藍屋",
-  "venue": "Nikon香港贊助 : 藍屋中秋花燈攝影及短片比賽 2026",
-  "region": "香港",
-  "start_date": "2026-08-28",
-  "end_date": "2026-10-20",
-  "date_text": "2026-08-28 ~ 10-14 ( 6:00 PM ~ 9:30 PM ) / 2026-09-05 ~ 10-20",
-  "time_text": "6:00 PM ~ 9:30 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "「藍屋中秋花燈攝影及短片比賽」踏入第五屆，今年 We嘩藍屋非常榮幸獲得 Nikon Hong Kong 鼎力贊助。誠邀公眾用鏡頭記錄這座歷史建築與傳統節慶交織的珍貴時刻。今年比賽繼續設有專業攝影組、寵物相片組及短片組，獎品極為豐富：專業攝影組大獎可獲得由 Nikon 贊助之 Z50II 連 Z DX 16-50mm f/3.5-6.3 VR 鏡頭套裝（價值 HK$9,320），而寵物相片組及短片組得獎者亦可獲精美禮品！獎項：攝影專業組（1名） | Nikon 贊助 Z50II 連 Z DX 16-50mm f/3.5-6.3 VR 鏡頭套裝 (價值 HK",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260917_150212_NK41EgAUlY_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-20",
-  "first_seen": "2026-10-01",
-  "delisted": true
- },
- {
   "id": "artmate:98602",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -1464,45 +1427,6 @@
   "scraped_at": "2026-10-22",
   "first_seen": "2026-10-18",
   "delisted": false
- },
- {
-  "id": "artmate:100176",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "喚醒你的內在守護靈~拾回靈魂碎片",
-  "url": "https://www.art-mate.net/doc/100176",
-  "kind": "活動",
-  "categories": [
-   "工作坊"
-  ],
-  "tags": [
-   "其他",
-   "活動",
-   "身心靈"
-  ],
-  "organiser": "靜心生活",
-  "venue": "喚醒你的內在守護靈~拾回靈魂碎片",
-  "region": "香港",
-  "start_date": "2026-10-20",
-  "end_date": "2026-10-20",
-  "date_text": "2026-10-20 ( 7:30 PM ~ 9:00 PM )",
-  "time_text": "7:30 PM ~ 9:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": false,
-  "fee_text": "HKD 150",
-  "deposit": "",
-  "apply_url": "https://www.art-mate.net/buy_ticket/100176",
-  "enquiry": "mindfullivinghongkong@gmail.com",
-  "summary": "一場溫柔而有力的儀式，幫助你重新整合這些失落的部分，找回屬於你的力量與生命力。釋放舊有傷痛，迎接靈魂碎片的回歸。",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260915_135339_cByA8C8Qxm_p_300_0.jpeg",
-  "updated": null,
-  "scraped_at": "2026-10-20",
-  "first_seen": "2026-10-18",
-  "delisted": true
  },
  {
   "id": "artmate:101124",
@@ -3350,7 +3274,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -3388,7 +3312,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -4335,7 +4259,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -4409,7 +4333,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-19",
+  "scraped_at": "2026-11-20",
   "first_seen": "2026-07-11",
   "delisted": false
  }
