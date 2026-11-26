@@ -1361,46 +1361,6 @@
   "delisted": false
  },
  {
-  "id": "artmate:100301",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "《係愛呀2》 寵物與人像畫展",
-  "url": "https://www.art-mate.net/doc/100301",
-  "kind": "活動",
-  "categories": [
-   "視覺藝術",
-   "展覽",
-   "工作坊"
-  ],
-  "tags": [
-   "活動",
-   "免費"
-  ],
-  "organiser": "Kathleen Wong Art",
-  "venue": "《係愛呀2》 寵物與人像畫展",
-  "region": "香港",
-  "start_date": "2026-10-23",
-  "end_date": "2026-10-26",
-  "date_text": "2026-10-23 ~ 10-25 ( 11:00 AM ~ 8:00 PM ) / 2026-10-26 ( 11:00 AM ~ 6:00 PM )",
-  "time_text": "11:00 AM ~ 8:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "kathleenwongart@gmail.com",
-  "summary": "係愛呀² 寵物與人像畫展展出約170多幅作品，水彩、粉彩、木顏色、油畫、素描都有。有宮廷服主子，有自己毛孩，亦有人像班同學作品。作品已印製成精美畫冊，現場發售；賣出收益扣除成本後，將捐助流浪動物機構。現場活動免費Workshop快閃Face paint彩繪 ｜學習簡單圖案10月23–26日 11:00–12:00木顏色眼睛體驗｜初階 10月23–26日 12:30–13:30",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202609/thumbnail/20260917_182047_ePpJCkNvhu_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-22",
-  "first_seen": "2026-10-18",
-  "delisted": false
- },
- {
   "id": "artmate:101096",
   "source": "artmate",
   "source_label": "art-mate 藝文平台",
@@ -1671,7 +1631,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1709,7 +1669,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2656,7 +2616,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2730,7 +2690,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-25",
+  "scraped_at": "2026-11-26",
   "first_seen": "2026-07-11",
   "delisted": false
  }
