@@ -803,47 +803,6 @@
   "delisted": true
  },
  {
-  "id": "artmate:97935",
-  "source": "artmate",
-  "source_label": "art-mate 藝文平台",
-  "source_type": "活動平台",
-  "title": "「奇幻玩物的聲色巡禮」 【「亞藝無疆」藝術節 2026】",
-  "url": "https://www.art-mate.net/doc/97935",
-  "kind": "活動",
-  "categories": [
-   "音樂",
-   "視覺藝術",
-   "展覽",
-   "工作坊"
-  ],
-  "tags": [
-   "活動",
-   "免費"
-  ],
-  "organiser": "康樂及文化事務署",
-  "venue": "「奇幻玩物的聲色巡禮」 【「亞藝無疆」藝術節 2026】",
-  "region": "香港",
-  "start_date": "2026-09-10",
-  "end_date": "2026-10-28",
-  "date_text": "2026-09-10 ~ 10-14 ( 9:00 AM ~ 11:00 PM ) / 2026-09-22 ( 7:00 PM ~ 11:00 PM )",
-  "time_text": "9:00 AM ~ 11:00 PM",
-  "deadline": null,
-  "audience": "",
-  "age_min": null,
-  "age_max": null,
-  "is_free": true,
-  "fee_text": "免費",
-  "deposit": "",
-  "apply_url": "",
-  "enquiry": "info@art-mate.net",
-  "summary": "今年「亞裔藝采+」民族文化展覽以「盛禮薈萃」為主題，匯聚多個「一帶一路」國家和地區的文化。從編織品、特色手工藝品、照片，到油畫與瓷器工藝，這些獨特且富有文化意涵的展品承載着深厚的情感與匠人的祝福，映照出不同文化的傳承。每一件展品都是一份心意的傳遞，凝聚著送贈者與接受者之間的溫暖和真摯。誠邀大家前來參觀，感受這份蘊藏在展品中的人情味。------延伸活動( 1 ) 手作工作坊免費入場17-18.10.2026（六至日）3pm, 4pm, 5pm荃灣廣場L1長廊8.11.2026（日）3pm, 4pm, 5pmMikiki地下中庭A區- 工作坊開始前30分鐘",
-  "image": "https://cdn.art-mate.net/uploads/artmate/202607/thumbnail/20260716_115635_t23dQfZflf_p_300_0.jpg",
-  "updated": null,
-  "scraped_at": "2026-10-04",
-  "first_seen": "2026-10-04",
-  "delisted": true
- },
- {
   "id": "youth_gov:58f36583-a595-4b44-9425-fd50f24be172",
   "source": "youth_gov",
   "source_label": "政府青少年網站",
@@ -1431,7 +1390,7 @@
   "summary": "全日制職業專才教育，完成後提供就業跟進服務。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-27",
+  "scraped_at": "2026-11-28",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -1469,7 +1428,7 @@
   "summary": "青年培育計劃課程及青年特色課程；部分設培訓津貼，實際安排以課程頁面為準。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-27",
+  "scraped_at": "2026-11-28",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2416,7 +2375,7 @@
   "summary": "一站式職前培訓、工作實習、在職培訓同就業支援；由註冊社工做就業顧問，提供 12 個月個案跟進。修畢課程出席率達 80% 可領培訓津貼。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-27",
+  "scraped_at": "2026-11-28",
   "first_seen": "2026-07-11",
   "delisted": false
  },
@@ -2490,7 +2449,7 @@
   "summary": "提供就業及自僱支援服務、職業講座同一對一諮詢。可經網站預約或直接經勞工處申請。",
   "image": "",
   "updated": null,
-  "scraped_at": "2026-11-27",
+  "scraped_at": "2026-11-28",
   "first_seen": "2026-07-11",
   "delisted": false
  }
